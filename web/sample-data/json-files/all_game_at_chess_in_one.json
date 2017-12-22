@@ -1,0 +1,617 @@
+[{
+  "RemoteUniqueID": "http://hamnet.folger.edu/cgi-bin/Pwebrecon.cgi?BBID=227710#259476",
+  "isBasedOn": "http://hamnet.folger.edu/cgi-bin/Pwebrecon.cgi?BBID=227710#259476",
+  "name": "A game at chess [manuscript], 1624 August 13.",
+  "alternateName":  "Game at chess.",
+  "datePublished":
+    {"startDate": 1624},
+  "dateCreated": "1624 August 13",
+  "locationCreated" : 
+  {
+    "@type": "",
+    "addressLocality": "",
+    "addressCountry": ""
+  },
+  "description": "Copy dated one day before last performance on August 14, 1624 before Middleton’s play was banned. Scribal copy in the hand of Ralph Crane lacking portions of the text. Correction in Middleton’s hand (p. 32), as well as corrections in other hands, probably made by later owners. Poems listed in the Folger card index of first lines. Title from title page. Known as the \"Archdall\" manuscript. Portions also available as a digital reproduction. Also available on microfilm. Mervyn Archdall MS. Formerly Folger MS 7043.",
+  "disambiguatingDescription" : "",
+  "folgerCallNumber" : "V.a.231",
+  "format" : "text",
+  "Agent":
+  [
+    {"name": "Middleton, Thomas, -1627,", "description" : "author", "uri" : "http://id.loc.gov/authorities/names/n79054288"},
+    {"name": "Crane, Ralph,", "description" : "scribe", "uri" : "http://id.loc.gov/authorities/names/nr93002976"},
+    {"name": "Archdall, Mervyn, 1723-1791,", "description" : "former owner", "uri" : "http://id.loc.gov/authorities/names/n85388266"}
+  ],
+  "inLanguage": "eng",
+  "extent": "93 p.",
+  "size": "165 x 127 mm",
+  "about":
+  [
+    {
+      "uri":"",
+      "description":""
+    }
+  ],
+  "genre" :
+  [
+    {
+      "search": "Manuscripts (documents) --England --17th century.", 
+      "terms": ["Manuscripts (documents)", "England", "17th century"],
+      "uri": "http://vocab.getty.edu/aat/300028569"
+    },
+    {
+      "search": "Plays (performed works) --England --17th century --Manuscripts.", 
+      "terms": ["Plays (performed works)", "England", "17th century", "Manuscripts"],
+      "uri": "http://vocab.getty.edu/aat/300201028"
+    },
+    {
+      "search": "Poems --England --17th century --Manuscripts.", 
+      "terms": ["Poems", "England", "17th century", "Manuscripts"],
+      "uri": "https://rbms.info/vocabularies/genre/tr85.htm"
+    }
+  ],
+  "folgerRelatedItems":
+  [
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144434", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "front outside cover", "mpso" : 2, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144435", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "front inside cover || front endleaf 1 recto", "mpso" : 3, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144436", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "front endleaf 1 verso || front endleaf 2 recto", "mpso" : 4, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144437", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "front endleaf 2 verso || leaf [1 recto]", "mpso" : 5, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144438", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf [1 verso] || page 1", "mpso" : 6, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144439", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 2 || page 3", "mpso" : 7, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144440", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 4 || page 5", "mpso" : 8, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144441", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 6 || page 7", "mpso" : 9, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144442", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 8 || page 9", "mpso" : 10, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144443", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 10 || page 11", "mpso" : 11, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144444", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 12 || page 13", "mpso" : 12, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144445", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 14 || page 15", "mpso" : 13, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144446", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 16 || page 17", "mpso" : 14, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144447", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 18 || page 19", "mpso" : 15, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144448", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 20 || page 21", "mpso" : 16, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144449", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 22 || page 23", "mpso" : 17, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144450", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 24 || page 25", "mpso" : 18, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144451", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 26 || page 27", "mpso" : 19, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144452", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 28 || page 29", "mpso" : 20, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144453", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 30 || page 31", "mpso" : 21, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144454", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 32 || page 33", "mpso" : 22, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144455", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 34 || page 35", "mpso" : 23, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144456", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 36 || page 37", "mpso" : 24, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144457", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 38 || page 39", "mpso" : 25, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144458", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 40 || page 41", "mpso" : 26, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144459", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 42 || page 43", "mpso" : 27, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144460", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 44 || page 45", "mpso" : 28, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144461", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 46 || page 47", "mpso" : 29, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144462", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 48 || page 49", "mpso" : 30, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144463", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 50 || page 51", "mpso" : 31, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144464", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 52 || page 53", "mpso" : 32, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144465", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 54 || page 55", "mpso" : 33, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144466", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 56 || page 57", "mpso" : 34, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144467", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 58 || page 59", "mpso" : 35, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144468", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 60 || page 61", "mpso" : 36, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144469", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 62 || page 63", "mpso" : 37, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144470", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 64 || page 65", "mpso" : 38, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144471", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 66 || page 67", "mpso" : 39, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144472", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 68 || page 69", "mpso" : 40, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144473", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 70 || page 71", "mpso" : 41, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144474", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 72 || page 73", "mpso" : 42, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144475", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 74 || page 75", "mpso" : 43, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144476", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 76 || page 77", "mpso" : 44, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144477", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 78 || page 79", "mpso" : 45, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144478", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 80 || page 81", "mpso" : 46, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144479", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 82 || page 83", "mpso" : 47, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144480", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 84 || page 85", "mpso" : 48, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144481", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 86 || page 87", "mpso" : 49, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144482", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 88 || page 89", "mpso" : 50, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144483", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 90 || page 91", "mpso" : 51, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144484", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 92 || page 93", "mpso" : 52, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144485", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "[page 94] || [page 95]", "mpso" : 53, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144486", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "[page 96] || back endleaf 1 recto", "mpso" : 54, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144487", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "back endleaf 1 verso || back inside cover", "mpso" : 55, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144488", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "back outside cover", "mpso" : 56, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144489", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "spine", "mpso" : 57, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144490", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "head", "mpso" : 58, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144491", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "fore-edge", "mpso" : 59, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144492", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "tail", "mpso" : 60, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "52092", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "title page", "mpso" : 0, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "52093", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 3", "mpso" : 0, "description" : "digital image" }
+  ]
+},
+{
+  "RemoteUniqueID": "http://hamnet.folger.edu/cgi-bin/Pwebrecon.cgi?BBID=164514#158343",
+  "isBasedOn": "http://hamnet.folger.edu/cgi-bin/Pwebrecon.cgi?BBID=164514#158343",
+  "name":  "A game at chesse : as it hath bine sundrey times acted at the Globe on the Banck side." ,
+  "alternateName": "Game at chess.",
+  "datePublished":
+    {"startDate": 1625},
+  "dateCreated": "[1625?]",
+  "locationCreated" : 
+  {
+    "@type": "Place",
+    "addressLocality": "London.",
+    "addressCountry": "England"
+  },
+  "description": "Anonymous. By Thomas Middleton. In verse. The title page (leaf A1) is engraved and illustrated. Publication date and actual place of publication conjectured by STC and addendum. Signatures: A-I⁴. Also available as a digital reproduction.",
+  "disambiguatingDescription" : "Imperfect: lacking title page (A1). With engraved title page inserted from STC 17882 or 17883 [inserted leaf 2] and the explanation of the illustration (also from STC 17882 or 17883) inlaid to face t.p. [inserted leaf 1]. Manuscript note on front fly-leaves signed \"[W Safe. ?]\". Calf binding by W. Pratt; all edges gilt. Provenance: armorial bookplate of F. A. Marshall (motto \"nunquam sedeo\"); anonymous armorial bookplate with manuscript note \"1886. [Wase ?]\"; coat of arms stamped on A2v of the Duke of Roxburghe",
+  "folgerCallNumber" : "STC 17884 copy 2",
+  "format" : "text",
+  "Agent":
+  [
+    {"name": "Middleton, Thomas, -1627,", "description" : "author", "uri" : "http://id.loc.gov/authorities/names/n79054288"},
+    {"name": "Roxburghe, John Ker, Duke of, 1740-1804,", "description" : "former owner", "uri" : "http://id.loc.gov/authorities/names/n84193763"}
+  ],
+  "inLanguage": "eng",
+  "extent": "[4], 68 p.",
+  "size": "19 cm (4to)",
+  "about":
+  [
+    {
+      "uri":"",
+      "description":""
+    }
+  ],
+  "genre" :
+  [
+    {
+      "search": "Plays (performed works) --England --17th century --Manuscripts.", 
+      "terms": ["Plays (performed works)", "England", "17th century", "Manuscripts"],
+      "uri": "http://vocab.getty.edu/aat/300201028"
+    },
+    {
+      "search": "Poems --England --17th century --Manuscripts.", 
+      "terms": ["Poems", "England", "17th century", "Manuscripts"],
+      "uri": "https://rbms.info/vocabularies/genre/tr85.htm"
+    },
+    {
+      "search": "Prologues and epilogues --England --17th century --Manuscripts.", 
+      "terms": ["Prologues and epilogues", "England", "17th century", "Manuscripts"],
+      "uri": ""
+    },
+    {
+      "search": "Annotations (Provenance)", 
+      "terms": ["Annotations (Provenance)"],
+      "uri": "https://rbms.info/vocabularies/provenance/tr4.htm"
+    }
+  ],
+  "folgerRelatedItems":
+  [
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143986", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "front outside cover", "mpso" : 1, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143987", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "front inside cover || front endleaf 1 recto", "mpso" : 2, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143988", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "front endleaf 1 verso || front endleaf 2 recto", "mpso" : 3, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143989", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "front endleaf 2 verso || inserted leaf 1 recto", "mpso" : 4, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143990", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "inserted leaf 1 verso || inserted leaf 2 stub recto", "mpso" : 5, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144493", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "inserted leaf 2 stub verso || inserted leaf 2 recto", "mpso" : 6, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143991", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "inserted leaf 2 verso || leaf A2 recto", "mpso" : 7, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143992", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf A2 verso || leaf A3 recto (page 1)", "mpso" : 8, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143993", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf A3 verso (page 2) || leaf A4 recto (page 3)", "mpso" : 9, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143994", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf A4 verso (page 4) || leaf B1 recto (page 5)", "mpso" : 10, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143995", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf B1 verso (page 6) || leaf B2 recto (page 7)", "mpso" : 11, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143996", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf B2 verso (page 8) || leaf B3 recto (page 9)", "mpso" : 12, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143997", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf B3 verso (page 10) || leaf B4 recto (page 11)", "mpso" : 13, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143998", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf B4 verso (page 12) || leaf C1 recto (page 13)", "mpso" : 14, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143999", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf C1 verso (page 14) || leaf C2 recto (page 15)", "mpso" : 15, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144000", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf C2 verso (page 16) || leaf C3 recto (page 17)", "mpso" : 16, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144001", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf C3 verso (page 18) || leaf C4 recto (page 19)", "mpso" : 17, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144002", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf C4 verso (page 20) || leaf D1 recto (page 21)", "mpso" : 18, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144003", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf D1 verso (page 22) || leaf D2 recto (page 23)", "mpso" : 19, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144004", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf D2 verso (page 24) || leaf D3 recto (page 25)", "mpso" : 20, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144005", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf D3 verso (page 26) || leaf D4 recto (page 27)", "mpso" : 21, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144006", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf D4 verso (page 28) || leaf E1 recto (page 29)", "mpso" : 22, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144007", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf E1 verso (page 30) || leaf E2 recto (page 31)", "mpso" : 23, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144008", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf E2 verso (page 32) || leaf E3 recto (page 33)", "mpso" : 24, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144009", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf E3 verso (page 34) || leaf E4 recto (page 35)", "mpso" : 25, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144010", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf E4 verso (page 36) || leaf F1 recto (page 37)", "mpso" : 26, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144011", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf F1 verso (page 38) || leaf F2 recto (page 39)", "mpso" : 27, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144012", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf F2 verso (page 40) || leaf E3 [i.e. leaf F3] recto (page 41)", "mpso" : 28, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144013", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf E3 [i.e. F3] verso (page 32 [i.e. page 42]) || leaf F4 recto (page 33 [i.e. page 43])", "mpso" : 29, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144014", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf F4 verso (page 44) || leaf G1 recto (page 45)", "mpso" : 30, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144015", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf G1 verso (page 46) || leaf G2 recto (page 47)", "mpso" : 31, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144016", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf G2 verso (page 48) || leaf G3 recto (page 49)", "mpso" : 32, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144017", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf G3 verso (page 50) || leaf G4 recto (page 51)", "mpso" : 33, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144018", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf G4 verso (page 52) || leaf H1 recto (page 53)", "mpso" : 34, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144019", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf H1 verso (page 54) || leaf H2 recto (page 55)", "mpso" : 35, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144020", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf H2 verso (page 56) || leaf H3 recto (page 57)", "mpso" : 36, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144021", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf H3 verso (page 58) || leaf H4 recto (page 59)", "mpso" : 37, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144022", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf H4 verso (page 60) || leaf I1 recto (page 61)", "mpso" : 38, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144023", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf I1 verso (page 62) || leaf I2 recto (page 63)", "mpso" : 39, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144024", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf I2 verso (page 64) || leaf I3 recto (page 65)", "mpso" : 40, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144025", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf I3 verso (page 66) || leaf I4 recto (page 67)", "mpso" : 41, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144026", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf I4 verso (page 68) || back endleaf 1 recto", "mpso" : 42, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144027", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "back endleaf 1 verso || back endleaf 2 recto", "mpso" : 43, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144028", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "back endleaf 2 verso || back inside cover", "mpso" : 44, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144029", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "back outside cover", "mpso" : 45, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144030", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "spine", "mpso" : 46, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144031", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "head", "mpso" : 47, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144032", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "fore-edge", "mpso" : 48, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "144033", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "tail", "mpso" : 49, "description" : "digital image" }
+  ]
+},
+{
+  "RemoteUniqueID": "http://hamnet.folger.edu/cgi-bin/Pwebrecon.cgi?BBID=164514#158342",
+  "isBasedOn": "http://hamnet.folger.edu/cgi-bin/Pwebrecon.cgi?BBID=164514#158342",
+  "name": "A game at chesse : as it hath bine sundrey times acted at the Globe on the Banck side." ,
+  "alternateName": "Game at chess.",
+  "datePublished":
+    {"startDate": 1625},
+  "dateCreated": "[1625?]",
+  "locationCreated" : 
+  {
+    "@type": "Place",
+    "addressLocality": "London.",
+    "addressCountry": "England"
+  },
+  "description": "Anonymous. By Thomas Middleton. In verse. The title page (leaf A1) is engraved and illustrated. Publication date and actual place of publication conjectured by STC and addendum. Signatures: A-I⁴. Also available as a digital reproduction.",
+  "disambiguatingDescription" : "Gathering I trimmed, affecting catchwords. Calf binding by F. Bedford; all edges gilt. Provenance: gilt armorial bookplate of the Huth Library.",
+  "folgerCallNumber" : "STC 17884 copy 1",
+  "format" : "text",
+  "Agent":
+  [
+    {"name": "Middleton, Thomas, -1627,", "description" : "author", "uri" : "http://id.loc.gov/authorities/names/n79054288"},
+    {"name": "Huth Library,", "description" : "former owner", "uri" : ""}
+  ],
+  "inLanguage": "eng",
+  "extent": "[4], 68 p.",
+  "size": "19 cm (4to)",
+  "about":
+  [
+    {
+      "uri":"",
+      "description":""
+    }
+  ],
+  "genre" :
+  [
+    {
+      "search": "Plays (performed works) --England --17th century --Manuscripts.", 
+      "terms": ["Plays (performed works)", "England", "17th century", "Manuscripts"],
+      "uri": "http://vocab.getty.edu/aat/300201028"
+    },
+    {
+      "search": "Poems --England --17th century --Manuscripts.", 
+      "terms": ["Poems", "England", "17th century", "Manuscripts"],
+      "uri": "https://rbms.info/vocabularies/genre/tr85.htm"
+    },
+    {
+      "search": "Prologues and epilogues --England --17th century --Manuscripts.", 
+      "terms": ["Prologues and epilogues", "England", "17th century", "Manuscripts"],
+      "uri": ""
+    },
+    {
+      "search": "Annotations (Provenance)", 
+      "terms": ["Annotations (Provenance)"],
+      "uri": "https://rbms.info/vocabularies/provenance/tr4.htm"
+    }
+  ],
+  "folgerRelatedItems":
+  [
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143937", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "front outside cover", "mpso" : 1, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143938", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "front inside cover || front endleaf 1 recto", "mpso" : 2, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143939", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "front endleaf 1 verso || front endleaf 2 recto", "mpso" : 3, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143940", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "front endleaf 2 verso || front endleaf 3 recto", "mpso" : 4, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143941", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "front endleaf 3 verso || leaf A1 recto", "mpso" : 5, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143942", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf A1 verso || leaf A2 recto", "mpso" : 6, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143943", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf A2 verso || leaf A3 recto (page 1)", "mpso" : 7, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143944", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf A3 verso (page 2) || leaf A4 recto (page 3)", "mpso" : 8, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143945", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf A4 verso (page 4) || leaf B1 recto (page 5)", "mpso" : 9, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143946", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf B1 verso (page 6) || leaf B2 recto (page 7)", "mpso" : 10, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143947", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf B2 verso (page 8) || leaf B3 recto (page 9)", "mpso" : 11, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143948", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf B3 verso (page 10) || leaf B4 recto (page 11)", "mpso" : 12, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143949", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf B4 verso (page 12) || leaf C1 recto (page 13)", "mpso" : 13, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143950", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf C1 verso (page 14) || leaf C2 recto (page 15)", "mpso" : 14, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143951", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf C2 verso (page 16) || leaf C3 recto (page 17)", "mpso" : 15, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143952", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf C3 verso (page 18) || leaf C4 recto (page 19)", "mpso" : 16, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143953", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf C4 verso (page 20) || leaf D1 recto (page 21)", "mpso" : 17, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143954", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf D1 verso (page 22) || leaf D2 recto (page 23)", "mpso" : 18, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143955", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf D2 verso (page 24) || leaf D3 recto (page 25)", "mpso" : 19, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143956", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf D3 verso (page 26) || leaf D4 recto (page 27)", "mpso" : 20, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143957", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf D4 verso (page 28) || leaf E1 recto (page 29)", "mpso" : 21, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143958", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf E1 verso (page 30) || leaf E2 recto (page 31)", "mpso" : 22, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143959", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf E2 verso (page 32) || leaf E3 recto (page 33)", "mpso" : 23, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143960", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf E3 verso (page 34) || leaf E4 recto (page 35)", "mpso" : 24, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143961", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf E4 verso (page 36) || leaf F1 recto (page 37)", "mpso" : 25, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143962", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf F1 verso (page 38) || leaf F2 recto (page 39)", "mpso" : 26, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143963", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf F2 verso (page 40) || leaf E3 [i.e. leaf F3] recto (page 41)", "mpso" : 27, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143964", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf E3 [i.e. F3] verso (page 32 [i.e. page 42]) || leaf F4 recto (page 33 [i.e. page 43])", "mpso" : 28, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143965", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf F4 verso (page 44) || leaf G1 recto (page 45)", "mpso" : 29, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143966", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf G1 verso (page 46) || leaf G2 recto (page 47)", "mpso" : 30, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143967", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf G2 verso (page 48) || leaf G3 recto (page 49)", "mpso" : 31, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143968", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf G3 verso (page 50) || leaf G4 recto (page 51)", "mpso" : 32, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143969", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf G4 verso (page 52) || leaf H1 recto (page 53)", "mpso" : 33, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143970", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf H1 verso (page 54) || leaf H2 recto (page 55)", "mpso" : 34, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143971", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf H2 verso (page 56) || leaf H3 recto (page 57)", "mpso" : 35, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143972", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf H3 verso (page 58) || leaf H4 recto (page 59)", "mpso" : 36, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143973", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf H4 verso (page 60) || leaf I1 recto (page 61)", "mpso" : 37, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143974", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf I1 verso (page 62) || leaf I2 recto (page 63)", "mpso" : 38, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143975", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf I2 verso (page 64) || leaf I3 recto (page 65)", "mpso" : 39, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143976", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf I3 verso (page 66) || leaf I4 recto (page 67)", "mpso" : 40, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143977", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf I4 verso (page 68) || back endleaf 1 recto", "mpso" : 41, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143978", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "back endleaf 1 verso || back endleaf 2 recto", "mpso" : 42, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143979", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "back endleaf 2 verso || back endleaf 3 recto", "mpso" : 43, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143980", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "back endleaf 3 verso || back inside cover", "mpso" : 44, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143981", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "back outside cover", "mpso" : 45, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143982", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "spine", "mpso" : 46, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143983", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "head", "mpso" : 47, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143984", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "fore-edge", "mpso" : 48, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "143985", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "tail", "mpso" : 49, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "44007", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "title page", "mpso" : 50, "description" : "digital image" }
+  ]
+},
+{
+  "RemoteUniqueID": "http://hamnet.folger.edu/cgi-bin/Pwebrecon.cgi?BBID=164512#158340",
+  "isBasedOn": "http://hamnet.folger.edu/cgi-bin/Pwebrecon.cgi?BBID=164512#158340",
+  "name":  "A game at chaess : ‡b as it was acted nine days to gether at the Globe on the banks side." ,
+  "alternateName": "Game at chesse",
+  "datePublished":
+    {"startDate": 1625},
+  "dateCreated": "[1625]",
+  "locationCreated" : 
+  {
+    "@type": "Place",
+    "addressLocality": "London.",
+    "addressCountry": "England"
+  },
+  "description": "Anonymous. By Thomas Middleton. In verse. The title page is engraved. Publication date from STC Signatures: [A]² B-K⁴. Running title reads: A game at chesse. In this edition B1r line 4 has \"me Disciples\".",
+  "disambiguatingDescription" : "Imperfect: title page cropped and mounted, affecting text. [A]1 with inner margin repaired. Burn hole on H3. Green goatskin binding; all edges gilt.",
+  "folgerCallNumber" : "STC 17882",
+  "format" : "text",
+  "Agent":
+  [
+    {"name": "Middleton, Thomas, -1627,", "description" : "author", "uri" : "http://id.loc.gov/authorities/names/n79054288"}
+  ],
+  "inLanguage": "eng",
+  "extent": "[76] p.",
+  "size": "(4to)",
+  "about":
+  [
+    {
+      "uri":"",
+      "description":""
+    }
+  ],
+  "genre" :
+  [
+    {
+      "search": "Plays (performed works) --England --17th century --Manuscripts.", 
+      "terms": ["Plays (performed works)", "England", "17th century", "Manuscripts"],
+      "uri": "http://vocab.getty.edu/aat/300201028"
+    },
+    {
+      "search": "Poems --England --17th century --Manuscripts.", 
+      "terms": ["Poems", "England", "17th century", "Manuscripts"],
+      "uri": "https://rbms.info/vocabularies/genre/tr85.htm"
+    },
+    {
+      "search": "Prologues and epilogues --England --17th century --Manuscripts.", 
+      "terms": ["Prologues and epilogues", "England", "17th century", "Manuscripts"],
+      "uri": ""
+    }
+  ]
+},
+{
+  "RemoteUniqueID": "http://hamnet.folger.edu/cgi-bin/Pwebrecon.cgi?BBID=163634#157095",
+  "isBasedOn": "http://hamnet.folger.edu/cgi-bin/Pwebrecon.cgi?BBID=163634#157095",
+  "name":  "A game at chesse. : As it was acted nine dayes together at the Globe on the Bank-side. A game at chesse is here displayde ... Plaine-dealing (thus) by wisedomes guide, defeats the cheats of craft and pride." ,
+  "alternateName": "Game at chess",
+  "datePublished":
+    {"startDate": 1625},
+  "dateCreated": "1625.",
+  "locationCreated" : 
+  {
+    "@type": "Place",
+    "addressLocality": "London.",
+    "addressCountry": "England"
+  },
+  "description": "Anonymous. By Thomas Middleton.",
+  "description": "In verse.",
+  "description": "Place of publication conjectured by STC.",
+  "description": "Signatures: [A]² B-K⁴.",
+  "description": "A reissue, with a new preliminary half-sheet, of STC 17883 (B1r line 4 has \"my Disciples\").",
+  "disambiguatingDescription" : "Imperfect: title page only. Disbound. Provenance: John Payne Collier copy",
+  "folgerCallNumber" : "STC 17885 copy 2 Bd.w. STC 17885 copy 1",
+  "format" : "text",
+  "Agent":
+  [
+    {"name": "Middleton, Thomas, -1627,", "description" : "author", "uri" : "http://id.loc.gov/authorities/names/n79054288"},
+    {"name": "Collier, John Payne, 1789-1883,", "description" : "former owner", "uri" : "http://id.loc.gov/authorities/names/n50029197"}
+  ],
+  "inLanguage": "eng",
+  "extent": "[76] p.",
+  "size": "",
+  "about":
+  [
+    {
+      "uri":"",
+      "description":""
+    }
+  ],
+  "genre" :
+  [
+    {
+      "search": "Plays (performed works) --England --17th century --Manuscripts.", 
+      "terms": ["Plays (performed works)", "England", "17th century", "Manuscripts"],
+      "uri": "http://vocab.getty.edu/aat/300201028"
+    },
+    {
+      "search": "Poems --England --17th century --Manuscripts.", 
+      "terms": ["Poems", "England", "17th century", "Manuscripts"],
+      "uri": "https://rbms.info/vocabularies/genre/tr85.htm"
+    },
+    {
+      "search": "Prologues and epilogues --England --17th century --Manuscripts.", 
+      "terms": ["Prologues and epilogues", "England", "17th century", "Manuscripts"],
+      "uri": ""
+    }
+  ]
+},
+{
+  "RemoteUniqueID": "http://hamnet.folger.edu/cgi-bin/Pwebrecon.cgi?BBID=163634#157094",
+  "isBasedOn": "http://hamnet.folger.edu/cgi-bin/Pwebrecon.cgi?BBID=163634#157094",
+  "name": "A game at chesse. : As it was acted nine dayes together at the Globe on the Bank-side. A game at chesse is here displayde ... Plaine-dealing (thus) by wisedomes guide, defeats the cheats of craft and pride.",
+  "alternateName":  "Game at chess.",
+  "datePublished":
+    {"startDate": 1625},
+  "dateCreated": "1625.",
+  "locationCreated" : 
+  {
+    "@type": "Place",
+    "addressLocality": "London.",
+    "addressCountry": "England"
+  },
+  "description": "Anonymous. By Thomas Middleton. In verse. Place of publication conjectured by STC. Signatures: [A]² B-K⁴. A reissue, with a new preliminary half-sheet, of STC 17883 (B1r line 4 has \"my Disciples\").",
+  "disambiguatingDescription" : "Imperfect: title page only. Trimmed at tail, affecting imprint. Disbound. Provenance: John Payne Collier copy",
+  "folgerCallNumber" : "STC 17885 copy 1",
+  "format" : "text",
+  "Agent":
+  [
+    {"name": "Middleton, Thomas, -1627,", "description" : "author", "uri" : "http://id.loc.gov/authorities/names/n79054288"},
+    {"name": "Collier, John Payne, 1789-1883,", "description" : "former owner", "uri" : "http://id.loc.gov/authorities/names/n50029197"}
+  ],
+  "inLanguage": "eng",
+  "extent": "[76] p.",
+  "size": "",
+  "about":
+  [
+    {
+      "uri":"",
+      "description":""
+    }
+  ],
+  "genre" :
+  [
+    {
+      "search": "Plays (performed works) --England --17th century --Manuscripts.", 
+      "terms": ["Plays (performed works)", "England", "17th century", "Manuscripts"],
+      "uri": "http://vocab.getty.edu/aat/300201028"
+    },
+    {
+      "search": "Poems --England --17th century --Manuscripts.", 
+      "terms": ["Poems", "England", "17th century", "Manuscripts"],
+      "uri": "https://rbms.info/vocabularies/genre/tr85.htm"
+    },
+    {
+      "search": "Prologues and epilogues --England --17th century --Manuscripts.", 
+      "terms": ["Prologues and epilogues", "England", "17th century", "Manuscripts"],
+      "uri": ""
+    }
+  ]
+},
+{
+  "RemoteUniqueID": "http://hamnet.folger.edu/cgi-bin/Pwebrecon.cgi?BBID=161484#153984",
+  "isBasedOn": "http://hamnet.folger.edu/cgi-bin/Pwebrecon.cgi?BBID=161484#153984",
+  "name":  "A game at chaess : as it was acted nine dayes to gether at the Globe on the banks side." ,
+  "alternateName":  "Game at chess.",
+  "datePublished":
+    {"startDate": 1625},
+  "dateCreated": "[1625?]",
+  "locationCreated" : 
+  {
+    "@type": "Place",
+    "addressLocality": "London.",
+    "addressCountry": "England"
+  },
+  "description": "Anonymous. By Thomas Middleton. Place and date of publication from STC. Engraved title page with vignette. In this edition, B1r line 4 has \"my Disciples\"--cf.STC. Running title reads: A game at chesse. Signatures: [A]² B-K⁴. Reissued w. new prelims. in 17885-- STC. Portions also available as a digital reproduction.",
+  "disambiguatingDescription" : "Differs from STC 17882 in that sig.[A]1, gatherings B,D,E,G and sigs.H3r and H4v are in a different setting of type. Vellum wrapper with overlapping fore-edges and leather ties. Provenance: bought by the Folger from Rosenbach, November 1940",
+  "folgerCallNumber" : "STC 17883",
+  "format" : "text",
+  "Agent":
+  [
+    { "name": "Middleton, Thomas, -1627,", "description" : "author", "uri" : "http://id.loc.gov/authorities/names/n79054288"}
+  ],
+  "inLanguage": "eng",
+  "extent": "[76] p.",
+  "size": "20 cm (4to)",
+  "about":
+  [
+    {
+      "uri":"",
+      "description":""
+    }
+  ],
+  "genre" :
+  [
+    {
+      "search": "Plays (performed works) --England --17th century --Manuscripts.", 
+      "terms": ["Plays (performed works)", "England", "17th century", "Manuscripts"],
+      "uri": "http://vocab.getty.edu/aat/300201028"
+    },
+    {
+      "search": "Poems --England --17th century --Manuscripts.", 
+      "terms": ["Poems", "England", "17th century", "Manuscripts"],
+      "uri": "https://rbms.info/vocabularies/genre/tr85.htm"
+    },
+    {
+      "search": "Prologues and epilogues --England --17th century --Manuscripts.", 
+      "terms": ["Prologues and epilogues", "England", "17th century", "Manuscripts"],
+      "uri": ""
+    }
+  ],
+  "folgerRelatedItems":
+  [
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "1470", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "illustrated title page", "mpso" : 0, "description" : "digital image" }
+  ]
+},
+{
+  "RemoteUniqueID": "http://hamnet.folger.edu/cgi-bin/Pwebrecon.cgi?BBID=128835#259490",
+  "isBasedOn": "http://hamnet.folger.edu/cgi-bin/Pwebrecon.cgi?BBID=128835#259490",
+  "name":  "A game at chess [manuscript] : as it was acted nine dayes together, ca. 1624 / compos'de by Tho. Middleton." ,
+  "alternateName": "Game at chess.",
+  "datePublished":
+    {"startDate": 1624},
+  "dateCreated": "ca. 1624",
+  "locationCreated" : 
+  {
+    "@type": "",
+    "addressLocality": "",
+    "addressCountry": ""
+  },
+  "description": "Contains the longest and most complete version of banned play by Middleton. Scribal copy, in two unknown hands, overseen by Middleton. Title page in Middleton's autograph.",
+  "description": "Poems and epilogue listed in the Folger card index of first lines.",
+  "description": "Title from title page.",
+  "description": "Known as the \"Rosenbach\" manuscript.",
+  "description": "Portions also available as a digital reproduction.",
+  "description": "Also available on microfilm.",
+  "disambiguatingDescription" : "",
+  "folgerCallNumber" : "V.a.342",
+  "format" : "text",
+  "Agent":
+  [
+    { "name": "Middleton, Thomas, -1627,", "description" : "author", "uri" : "http://id.loc.gov/authorities/names/n79054288"}
+  ],
+  "inLanguage": "eng",
+  "extent": "77 p.",
+  "size": "187 x 143 mm",
+  "about":
+  [
+    {
+      "uri":"",
+      "description":""
+    }
+  ],
+  "genre" :
+  [
+    {
+      "search": "Manuscripts (documents) --England --17th century.", 
+      "terms": ["Manuscripts (documents)", "England", "17th century"],
+      "uri": "http://vocab.getty.edu/aat/300028569"
+    },
+    {
+      "search": "Plays (performed works) --England --17th century --Manuscripts.", 
+      "terms": ["Plays (performed works)", "England", "17th century", "Manuscripts"],
+      "uri": "http://vocab.getty.edu/aat/300201028"
+    },
+    {
+      "search": "Poems --England --17th century --Manuscripts.", 
+      "terms": ["Poems", "England", "17th century", "Manuscripts"],
+      "uri": "https://rbms.info/vocabularies/genre/tr85.htm"
+    },
+    {
+      "search": "Prologues and epilogues --England --17th century --Manuscripts.", 
+      "terms": ["Prologues and epilogues", "England", "17th century", "Manuscripts"],
+      "uri": ""
+    }
+  ],
+  "folgerRelatedItems":
+  [
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "52094", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "title page", "mpso" : 0, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "52095", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "page 5", "mpso" : 0, "description" : "digital image" }
+  ]
+}
+]

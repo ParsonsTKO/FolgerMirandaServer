@@ -1,0 +1,15 @@
+{% if schemas is defined and schemas|length > 0 %}
+[
+  {% for identifier, schema in schemas %}
+  {
+    "identifier" : "{{ identifier }}",
+  {% if schema is defined and schema|length > 0 %}
+      {% for identifierChild, schemaChild in schema %}
+        "{{ identifierChild }}": "{{ schemaChild }}"
+          {% if not loop.last %},{% endif %}
+      {% endfor %}
+  {% endif %}
+  }{% if not loop.last %},{% endif %}
+  {% endfor %}
+]
+{% endif %}

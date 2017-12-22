@@ -1,0 +1,13 @@
+[{
+  "RemoteUniqueID": "http://www.dynaexamples.com/examples-manual/ls-dyna_example.zip/view",
+  "fileURL": "http://www.dynaexamples.com/examples-manual/ls-dyna_example.zip/view",
+  "name":  "Sample Binary File" ,
+  "datePublished": {"startDate": 2017},
+  "dateCreated": "2017",
+  "description": "Sample Binary file: A ZIP file of LS-DYNA examples",
+  "format" : "binary",
+  "inLanguage": "eng",
+  "publisher" : "Livermore Software Technology Corporation",  
+  "contentSize" : "912k"
+
+}]

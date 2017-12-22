@@ -1,0 +1,1312 @@
+[
+  {
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La577",
+  "name":"Letter from Francis Kynnersley, Badger (Bagesor), to Walter Bagot",
+  "dateCreated":"1607 May 21",
+  "description":"Edmund Waring reports being told by Kynnersley's father that W. Bagot and two others have withdrawn as plaintiffs in the bill in Chancer, but, considering the confidence he has in Bagot, cannot believe it though his own father said it. Bagot's answer is L.a.122.",
+  "folgerCallNumber":"L.a.577",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Francis Kynnersley, Badger (Bagesor)","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40492", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1756, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40493", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1757, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40494", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 1758, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40495", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1759, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La578",
+  "name":"Letter from Francis Kynnersley, Badger, to Walter Bagot",
+  "dateCreated":"1609 May 4",
+  "description":"Considering the improvements he has made at Badger and the long time it has been in the family, he will not sell it for 300 per annum. His wife is in agreement with this.",
+  "folgerCallNumber":"L.a.578",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Francis Kynnersley, Badger","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40496", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1760, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40497", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso || leaf 2 recto", "mpso" : 1761, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40498", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1762, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La579",
+  "name":"Letter from Francis Kynnersley, Badger, to Walter Bagot",
+  "dateCreated":"1609? August 19",
+  "description":"Has heard that Mr. Coyney, of Weston Coyney, will sell a house and land in Caverswall. If the sale of the family's lands in Shropshire. will provide for this purchase, he will be content to add these lands to the Kynnersley demesnes in Caverswall. Desires Bagot's help.",
+  "folgerCallNumber":"L.a.579",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Francis Kynnersley, Badger","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40499", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1763, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40500", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1764, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40501", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 1765, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40502", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1766, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La58",
+  "name":"Letter from Sir Harvey Bagot, Oxford, to Walter Bagot",
+  "dateCreated":"ca. 1610",
+  "description":"Latin verse. Sends this poem as a gift to his father; hopes to give better gifts, and promises to apply himself diligently to his studies.",
+  "folgerCallNumber":"L.a.58",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Sir Harvey Bagot, Oxford","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38933", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 175, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38934", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 176, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La580",
+  "name":"Letter from Francis Kynnersley, Badger, to Walter Bagot",
+  "dateCreated":"circa 1610 February 8",
+  "description":"Is sending by the bearer a bullock taken by way of heriot from a tenant, who now challenges the action and seeks to prove a replevin. Asks Bagot to keep two animals for a while. Will buy his sister's wool if the price is reasonable. Asks Bagot's help if his father intends any wrong toward him.",
+  "folgerCallNumber":"L.a.580",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Francis Kynnersley, Badger","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40503", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1767, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40504", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1768, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40505", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 1769, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40506", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1770, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La581",
+  "name":"Letter from Francis Kynnersley, Badger, to Edmund Waring",
+  "dateCreated":"circa 1618 March 21",
+  "description":"Was disappointed at not seeing Waring at the Bridgenorth assizes. Wants him to write to Walter Bagot, urging him to move his father, A. Kynnersley, to perform his covenant by clearing Loxley of encumbrance, to which end he himself had sent the money to his father.",
+  "folgerCallNumber":"L.a.581",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Francis Kynnersley, Badger","description":"creator"},
+    {"name":"Edmund Waring","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40507", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1771, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40508", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso || leaf 2 recto", "mpso" : 1772, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40509", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1773, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La582",
+  "name":"Letter from Francis Kynnersley, Badger, to Walter Bagot",
+  "dateCreated":"circa March 22",
+  "description":"The brother of the bearer, the parson of Pattishall (Pattsell) has receved a privy seal for 20, but his whole annual income is but 8. Expects soon to make the last payment to his father, and asks Bagot to remind Sir Simon Weston and Mr. Skeffington to enforce the covenant requiring his father to clear Loxley of encumbrances.",
+  "folgerCallNumber":"L.a.582",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Francis Kynnersley, Badger","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40510", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1774, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40511", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1775, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40512", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 1776, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40513", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1777, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La583",
+  "name":"Letter from Francis Kynnersley, Badger, to Walter Bagot",
+  "dateCreated":"circa 1618",
+  "description":"To pay Vaughan he may have to sell to Bartley the land he holds; asks Bagot to send all conveyances between him and his father. His father promises to seal the book drawn by Mr. Weston, but performance is not clear.",
+  "folgerCallNumber":"L.a.583",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Francis Kynnersley, Badger","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40514", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1778, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40515", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1779, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La584",
+  "name":"Letter from Francis Kynnersley to Walter Bagot",
+  "dateCreated":"1620?",
+  "description":"Had thought matters at Badger were well settled by a supersedeas recently obtained and considering the favor shown by my lord (of Essex?) and the Chief Justice of Wales. He must prove that Vaughan recovered the debt twice. Now his house is beset with rogues. Asks advice. A copy of the supersedeas, dated February 12, 1619/20, follows the letter.",
+  "folgerCallNumber":"L.a.584",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Francis Kynnersley","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40516", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1780, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40517", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1781, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40518", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 1782, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40519", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1783, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La585",
+  "name":"Letter from Francis Kynnersley to Walter Bagot",
+  "dateCreated":"1620?",
+  "description":"Wants him to send Thomas Beardmore, so that the gentleman may learn of the agreement between Kynnersley and his father. Asks that Tom Kynnersley may accompany Bagot to London. Little Ned and Dick Bagot's grandchildren have the measles.",
+  "folgerCallNumber":"L.a.585",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Francis Kynnersley","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40520", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1784, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40521", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1785, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40522", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 1786, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40523", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1787, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La586",
+  "name":"Letter from Francis Kynnersley, Badger, to Walter Bagot",
+  "dateCreated":"circa 1620 November 12",
+  "description":"Edmund Waring has told him that any court held at Badger or Ackleton ought to be in Lettice's name as well as his own. Asks for the conveyances, which Mr. Madox wants to see. Will soon send money due to Petty.",
+  "folgerCallNumber":"L.a.586",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Francis Kynnersley, Badger","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40524", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1788, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40525", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1789, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40526", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 1790, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40527", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1791, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La587",
+  "name":"Letter from Francis Kynnersley to Walter Bagot",
+  "dateCreated":"circa 1620",
+  "description":"Thomas Beardmore is appointed clerk of Booth at Stafford Fair. Desires Bagot to write to Thomas Worswick a letter like that to Beardmore and let Ned Foster deliver it. The undersheriff has gone to London, but left his mind with Worswick. Would have come in person but finds himself much forth of order since his travels.",
+  "folgerCallNumber":"L.a.587",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Francis Kynnersley","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40528", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1792, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40529", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1793, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40530", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 1794, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40531", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1795, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La588",
+  "name":"Letter from Francis Kynnersley to Walter Bagot",
+  "dateCreated":"circa 1620",
+  "description":"Asks Bagot to try to persuade his father to sign the indenture and forbear the dismemberment of the estate. If this fails Bagot is to tell Peter Broughton how his father deals with him as to Lady Corbet, also letting the house fall to ruin, spoiling the woods, encumbering the estate, etc. Desires an appeal to Sir Richard Grobham for the statute at a low rate, for ready cash.",
+  "folgerCallNumber":"L.a.588",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Francis Kynnersley","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40532", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1796, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40533", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1797, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La589",
+  "name":"Letter from Francis Kynnersley to Walter Bagot",
+  "dateCreated":"1621?",
+  "description":"Sir thomas Beaumont (Bemon) gone from Lichfield to Coleorton, but Crewe will procure his letters to Sir Edward Villiers. Is sending Bagot a messenger to get the letter he promised. Wishes for the comfort of Bagot's poor sister.",
+  "folgerCallNumber":"L.a.589",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Francis Kynnersley","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40534", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1798, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40535", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1799, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La59",
+  "name":"Letter from Sir Harvey Bagot, Oxford, to Walter Bagot",
+  "dateCreated":"1610/1 January 16",
+  "description":"Encloses a note of expenses. Reminds his mother to send shirts. His brother Broughton's return expected. Mr. Votier (Votear), a tutor, to stay at Oxford.",
+  "folgerCallNumber":"L.a.59",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Sir Harvey Bagot, Oxford","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38935", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 177, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38936", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 178, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38937", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 179, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38938", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 180, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La590",
+  "name":"Letter from Francis Kynnersley to Walter Bagot",
+  "dateCreated":"1621?",
+  "description":"Desires Bagot's opinion as to the legality of his bargain with Sir Thomas Gilbert for Forall's living, and whether, if they pay the money, Kynnersley's father can recover it also. His father soon to return from London.",
+  "folgerCallNumber":"L.a.590",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Francis Kynnersley","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40536", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1800, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40537", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1801, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40538", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 1802, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40539", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1803, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La591",
+  "name":"Letter from Francis Kynnersley to Walter Bagot",
+  "dateCreated":"1622?",
+  "description":"Has proof that his father's goshawk was stolen and sold by Walter Boteley, who has also done much wrong to Mr. Cavendish. Desires a strict warrant charging felony and burglary, because one of the constables favors him much.",
+  "folgerCallNumber":"L.a.591",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Francis Kynnersley","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40540", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1804, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40541", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1805, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40542", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 1806, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40543", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1807, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La592",
+  "name":"Letter from Francis Kynnersley, Loxley, to Walter Bagot",
+  "dateCreated":"1622? October 30",
+  "description":"The decree provides that Loxley, now his property, must be cleared of all encumbrances except leases drawn before September 11, 1617. He has an injunction to enforce the decree, and he will have an attachment of Mrs. Massey's body, unless they pay him the profits due. He has taken nothing except lawful distresses. It is reported that Bagot has been taking Mrs. Massey's part in this.",
+  "folgerCallNumber":"L.a.592",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Francis Kynnersley, Loxley","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40544", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1808, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40545", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1809, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40546", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 1810, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40547", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1811, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La593",
+  "name":"Letter from Isabel Kynnersley (nee Walker), Loxley, to Walter Bagot",
+  "dateCreated":"1609 July 27",
+  "description":"When Bagot was last at Loxley she would have pushed the writer down the stairs and broken her neck if he had not been there. Urges that Bagot, Mr. Rudyerd (Richiarde), and her husband make an end of this business. She ought to live as a wife or depart with a portion. Is locked up and allowed to see no one. Writing this letter has been dangerous.",
+  "folgerCallNumber":"L.a.593",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Isabel Kynnersley (nee Walker), Loxley","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "5777", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto (page 489)", "mpso" : 1812, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "5778", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso (page 490)", "mpso" : 1813, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "5779", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto (page 491, address leaf)", "mpso" : 1814, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40548", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso (page 492)", "mpso" : 1815, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La594",
+  "name":"Letter from Lettice Bagot, Broughton, to Richard Bagot",
+  "dateCreated":"ca. 1595? January 18",
+  "description":"Thanks for 50 shillings. There was the greatest Christmas at Ludlow; 'my lady' Pembroke? made much of the writer's sister Broughton. When the term is over her brother and sister will return to Blithfield, soon after Candlemas.",
+  "folgerCallNumber":"L.a.594",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Lettice Bagot, Broughton","description":"creator"},
+    {"name":"Richard Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40549", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1816, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40550", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1817, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40551", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 1818, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40552", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1819, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La595 (2)",
+  "name":"Letter from Lettice Kynnersley, Broughton, to Walter Bagot",
+  "dateCreated":"ca. 1602 February 2",
+  "description":"Is grateful for his kindness. Her father-in-law planned to take the parsonage of Leigh for her and her husband, but she will never keep house but at Badger. Brother Trew is willing they should table with him. Her husband and her nephew Robert Broughton hunted yesterday at Cause Castle with Mr. Thynne. Her brother Broughton mends.",
+  "folgerCallNumber":"L.a.595 (2)",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Lettice Kynnersley, Broughton","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40555", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto (page 253)", "mpso" : 1822, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40556", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso (page 254)", "mpso" : 1823, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La596",
+  "name":"Letter from Lettice Kynnersley, Badger, to Richard Bagot",
+  "dateCreated":"1605/06 March 21",
+  "description":"The bearer was sent from Loxley to bid her send for her boy Thomas; cannot do so now and asks her brother to send and keep the boy at his house. Regrets not sending seed to Bagot's wife; sends greetings to her and to her own mother. Wants whoever fetches the boy to asks for his silver can and his clothes.",
+  "folgerCallNumber":"L.a.596",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Lettice Kynnersley, Badger","description":"creator"},
+    {"name":"Richard Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40557", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1824, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40558", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1825, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40559", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 1826, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40560", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1827, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La597",
+  "name":"Letter from Lettice Kynnersley, Badger, to Richard Bagot",
+  "dateCreated":"1608? May 20",
+  "description":"Is sending 5 for her cousin Pettie, grateful that he is willing to receive his 80 in installments of 20. The neighbors are troublesome; her husband goes in fear of his life; she fears the house will be pulled down over her; begs her brother to make peace between her husband and his father.",
+  "folgerCallNumber":"L.a.597",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Lettice Kynnersley, Badger","description":"creator"},
+    {"name":"Richard Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40561", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1828, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40562", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1829, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La598",
+  "name":"Letter from Lettice Kynnersley, Badger, to Richard Bagot",
+  "dateCreated":"1608? September 14",
+  "description":"Her husband has fallen out with her unreasonably, loads her with curses, confines her to her chamber, has taken from her the charge of the house, has discharged her servants. His mother is to blame. She may have to leave; wants her brother Walter or Anthony to interecede; will be content if she can have her children and a small maintenance.",
+  "folgerCallNumber":"L.a.598",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Lettice Kynnersley, Badger","description":"creator"},
+    {"name":"Richard Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "15228", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1830, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40563", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1831, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40564", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 1832, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "15229", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1833, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La599",
+  "name":"Letter from Lettice Kynnersley, Badger, to Richard Bagot",
+  "dateCreated":"1610? May 9",
+  "description":"Her husband's day of appearance is near. She is willing to leave the house and all for twelve years if she can have 100 to maintain her two younger sons, Walter and Anthony. Had she acknowledged a fine, Vaughan would now have all. Her husband must be at Bewdley on Saturday or lose all.",
+  "folgerCallNumber":"L.a.599",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Lettice Kynnersley, Badger","description":"creator"},
+    {"name":"Richard Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40565", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1834, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40566", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1835, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40567", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 1836, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40568", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1837, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La6",
+  "name":"Letter from Ralph Adderley II, London, to Walter Bagot",
+  "dateCreated":"1600 June 9",
+  "description":"On the previous Thursday, the Earl of Essex was at York House before the lords of the Privy Council and other lords, also two sergeants, the Queen's attorney and Bacon; he was touched only with some disloyalty to the Queen, to whose mercy he submitted himself. It is thought he will soon be discharged. He remained on his knees for two hours, while the matter was in talk. Grey gone to the Low Countries. Raleigh gone to the country; Her Majesty called him worse than I call a dog.",
+  "folgerCallNumber":"L.a.6",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Ralph Adderley II, London","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38772", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 14, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38773", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso || leaf 2 recto", "mpso" : 15, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38774", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 16, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La60",
+  "name":"Letter from Sir Harvey Bagot, Oxford, to Walter Bagot",
+  "dateCreated":"1610/1 January 26",
+  "description":"Thanks for 40 shillings Mr. Cavendish, Mr. Pearsall, and Mr. Trentham have a messenger who can bring things from Blithfield. Thanks for a pie. Mr. Nevill to be chosen collector. Cousin Oliver Cave is at Christ Church.",
+  "folgerCallNumber":"L.a.60",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Sir Harvey Bagot, Oxford","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38939", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 181, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38940", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 182, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38941", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 183, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38942", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 184, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La600",
+  "name":"Letter from Lettice Kynnersley, Badger, to Elizabeth (Cave) Bagot",
+  "dateCreated":"1610? May 20",
+  "description":"Her sister Okeover has sent her her diamond ring, which she must sell to pay debts. Mrs. Bagot may have first refusal. Her husband does not know she is selling it.",
+  "folgerCallNumber":"L.a.600",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Lettice Kynnersley, Badger","description":"creator"},
+    {"name":"Elizabeth (Cave) Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40569", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1838, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40570", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1839, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La601",
+  "name":"Letter from Lettice Kynnersley, Badger, to Walter Bagot",
+  "dateCreated":"1610? July 8",
+  "description":"Wants him to write to Justice Warburton. Vaughan has occupied land allotted to her and means to have all the corn. Her cousin Damport will swear that Vaughan openly accused Walter Bagot of receiving traitors and rebels. Vaughan ought to be prosecuted. Thanks for care of her girl.",
+  "folgerCallNumber":"L.a.601",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Lettice Kynnersley, Badger","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40571", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1840, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40572", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1841, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40573", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 1842, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40574", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1843, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La602",
+  "name":"Letter from Lettice Kynnersley, Badger, to Walter Bagot",
+  "dateCreated":"ca. 1610 September 14",
+  "description":"The sheriff has sequestered the land at an underrate of 6 shillings, 8 pence for the arable, and she may have it still, paying this rent. Vaughan looks to get a lease for three lives because there is a writ of rebellion against her husband. Hopes Bagot will seek the lease instead. There are several outlawries against her husband too. Waring offered to take her in. No word from her husband.",
+  "folgerCallNumber":"L.a.602",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Lettice Kynnersley, Badger","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40575", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1844, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40576", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1845, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40577", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 1846, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40578", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1847, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La603",
+  "name":"Letter from Lettice Kynnersley, Badger, to Walter Bagot",
+  "dateCreated":"ca. 1610 October 19",
+  "description":"Sent John Betinson to the sheriff, who says that if she sends 40 shillings. she may have the twenty timber trees. Hears nothing from her husband. If he come not in before November 1, all will be forfeit.",
+  "folgerCallNumber":"L.a.603",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Lettice Kynnersley, Badger","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40579", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1848, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40580", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1849, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La604",
+  "name":"Letter from Lettice Kynnersley, Badger, to Walter Bagot",
+  "dateCreated":"1618? April 8",
+  "description":"If her father-in-law does not sign the covenant, she begs her brother to force him to, or force her husband to settle the property on her children. Now that he and his mother are friends, things will be intolerable. Wants, if necessary to be allowed to leave with her children and a maintenance - not that it would be anything but misery to leave her husband.",
+  "folgerCallNumber":"L.a.604",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Lettice Kynnersley, Badger","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40581", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1850, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40582", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1851, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La605",
+  "name":"Letter from Lettice Kynnersley, Badger, to Walter Bagot",
+  "dateCreated":"1618? May 23",
+  "description":"Sir Henry Townsend wrote to Sir Thomas Chamberlaine in Kynnersley's behalf. Townsend's men must appear in court in June. There is a process out for her husband. Encloses a Letter from  her cousin Waring. Is impoverished, having only four servants, three threatening to leave.",
+  "folgerCallNumber":"L.a.605",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Lettice Kynnersley, Badger","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40583", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1852, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40584", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1853, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40585", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 1854, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40586", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1855, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La606",
+  "name":"Letter from Lettice Kynnersley, Badger, to Walter Bagot",
+  "dateCreated":"1619/20 March 23",
+  "description":"Sir Francis Evers and Mr. Overbury, appointed by the Council of Wales to determine the suit between Kynnersley and Vaughan, have awarded 400 to Vaughan, secured by a lease of Badger. Kynnersley wants Sir John Peshall to write to Mr. Justice. Asks advice on the acknowledging of a fine.",
+  "folgerCallNumber":"L.a.606",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Lettice Kynnersley, Badger","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40587", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1856, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40588", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1857, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40589", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 1858, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40590", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1859, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La607",
+  "name":"Letter from Lettice Kynnersley, Badger, to Walter Bagot",
+  "dateCreated":"ca. 1620 March 10",
+  "description":"Through her cousin Wolrich, the Baron of the Exchequer Bromley will try to bring George Vaughan to a reasonable settlement. Her husband must pay great debts and hopes to marry their son Tom to Wolrich's sister, who will bring 1000; she would not have him marry for money alone, but where he would have good friends.",
+  "folgerCallNumber":"L.a.607",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Lettice Kynnersley, Badger","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40591", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1860, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40592", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1861, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40593", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 1862, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40594", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1863, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La608",
+  "name":"Letter from Lettice Kynnersley to Walter Bagot",
+  "dateCreated":"1622?",
+  "description":"Asks him to license Thomas Cowper as an ale seller, he having been put down by her father-in-law only because of his willingness to please her and her husband.",
+  "folgerCallNumber":"L.a.608",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Lettice Kynnersley","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40595", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1864, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40596", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1865, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40597", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 1866, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40598", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1867, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La609",
+  "name":"Letter from William Lacey, Checkley, to Walter Bagot",
+  "dateCreated":"1599 April 24",
+  "description":"Remits a half-year's rent for the parsonage of Checkley -- 25. Asks to be told of any other outstanding accounts. Asks favor for Vane, who is threatened.",
+  "folgerCallNumber":"L.a.609",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"William Lacey, Checkley","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40599", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1868, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40600", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1869, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La61",
+  "name":"Letter from Sir Harvey Bagot, Oxford, to Walter Bagot",
+  "dateCreated":"1611 March 30",
+  "description":"Walter Edge placed in Trinity College by Walter Bagot and is favored by Mr. President and Harvey's tutor Henry Slymaker.",
+  "folgerCallNumber":"L.a.61",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Sir Harvey Bagot, Oxford","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38943", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 185, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38944", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 186, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La610",
+  "name":"Letter from Roland Lacon, Kinlet, to Walter Bagot",
+  "dateCreated":"ca. 1590 September 22",
+  "description":"Some of his tenants at Knightley have had their subsidy assessments enhanced by the efforts, as they think, of John Harley. Knightley being a poor lordship, the rate is exorbitant, and he prays that it may be reduced.",
+  "folgerCallNumber":"L.a.610",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Roland Lacon, Kinlet","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40601", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1870, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40602", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1871, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La611",
+  "name":"Letter from Anne (Bagot) Lane to Walter Bagot",
+  "dateCreated":"ca. 1620",
+  "description":"Asks help for a Mr. Middlemore, who received harsh treatment from Mr. Skeffington in his suit with Mr. Browne. The matter may perhaps be referred to Bagot.",
+  "folgerCallNumber":"L.a.611",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Anne (Bagot) Lane","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40603", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1872, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40604", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1873, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La612",
+  "name":"Letter from Jane (Littleton) Lane, The Hyde (Hide), to Walter Bagot",
+  "dateCreated":"1609 October 7",
+  "description":"Approves his proposals and asks him to pay 330 to her uncle Michael with certain conditions.",
+  "folgerCallNumber":"L.a.612",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Jane (Littleton) Lane, The Hyde (Hide)","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40605", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1874, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40606", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1875, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40607", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 1876, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40608", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1877, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La613",
+  "name":"Letter from Jane (Littleton) Lane, The Hyde, to Walter Bagot",
+  "dateCreated":"1611/12 January 2",
+  "description":"Her son Bagot's son-in-law received the whole inheritance of her late husband and undertook in return for his free marriage to provide for his brothers and sisters, but has not done so. She desires a meeting with Bagot, with her son, and with her cousin Sir Edward Littleton. Also, Bagot's reply stated that he is not acquainted with his son-in-law's estate, but has paid most of a goodly settlement and will pay no more till a satisfactory jointure for his daughter is settled. Is not responsible for other people's children.",
+  "folgerCallNumber":"L.a.613",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Jane (Littleton) Lane, The Hyde","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40609", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1878, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40610", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1879, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "46179", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 1880, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "46180", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1881, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La614",
+  "name":"Letter from Robert Dudley, Earl of Leicester, Nonsuch, to certain (unnamed) justices of the peace",
+  "dateCreated":"1587 May 21",
+  "description":"Understands that a privy sessions is to try a suit between Sir Thomas Fitzherbert and his nephew Thomas Fitzherbert (Leicester's servant), over property at Hamstall Ridware and that there is prejudice against the defendant. Desires an indifferent trial.",
+  "folgerCallNumber":"L.a.614",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Robert Dudley, Earl of Leicester, Nonsuch","description":"creator"},
+    {"name":"certain (unnamed) justices of the peace","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40611", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1882, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40612", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1883, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40613", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 1884, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40614", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1885, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La615",
+  "name":"Letter from Sir Edward Leigh, Rushall, to Richard Bagot and the other deputy lieutenants",
+  "dateCreated":"1586 December 12",
+  "description":"Begs that the inhabitants of Rushall may have the assessment for the musters reduced because of their poverty. William Astyle was well chosen for the service, but either William Hodgkines or Harry Woursye would have been better than Nicholas Parker.",
+  "folgerCallNumber":"L.a.615",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Sir Edward Leigh, Rushall","description":"creator"},
+    {"name":"Richard Bagot and the other deputy lieutenants","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40615", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1886, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40616", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso || leaf 2 recto", "mpso" : 1887, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40617", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1888, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La616",
+  "name":"Letter from Sir Edward Leigh, Rushall, to Walter Bagot",
+  "dateCreated":"1599 May 2",
+  "description":"Will look into the case of a poor woman, as Bagot has asked. In turn asks Bagot to meet him and remove a force lately made into his inheritance. Also, Walter Bagot's note forwarding the letter to his cousin, Zachary Babington, in which he asks for Babington's assistance. Also, Zachary Babington's response.",
+  "folgerCallNumber":"L.a.616",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Sir Edward Leigh, Rushall","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40618", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1889, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40619", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1890, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40620", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 1891, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40621", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1892, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La617",
+  "name":"Letter from Sir Edward Leigh, Rushall, to Walter Bagot",
+  "dateCreated":"1603 December 20",
+  "description":"Commends to Bagot (sheriff) his neighbor Sanders and asks protection against Mr. Fowke's persecutions. Leigh himself cannot act because he is at odds with Mr. Fowke over an injury and is likely to be suing him.",
+  "folgerCallNumber":"L.a.617",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Sir Edward Leigh, Rushall","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40622", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1893, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40623", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1894, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40624", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 1895, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40625", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1896, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La618",
+  "name":"Letter from Sir Thomas Leigh, Stoneleigh, Warkwickshire, to Walter Bagot",
+  "dateCreated":"1611/12 February 20",
+  "description":"Has constantly been overtaxed for his manor of Ridware because he is a stranger, and asks what his taxes ought to be.",
+  "folgerCallNumber":"L.a.618",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Sir Thomas Leigh, Stoneleigh, Warkwickshire","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40626", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1897, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40627", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1898, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40628", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 1899, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40629", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1900, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La619",
+  "name":"Letter from Sir Walter Leveson, Ashemores, to Walter Bagot",
+  "dateCreated":"1603/04 January 20",
+  "description":"Asks Bagot to examine his miller and his loader, who are charged with a robbery, some details of which he sets forth. Nathaniel Martin is a lewd fellow. The constable has an inherited estate.",
+  "folgerCallNumber":"L.a.619",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Sir Walter Leveson, Ashemores","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40630", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1901, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40631", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1902, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40632", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 1903, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40633", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1904, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La62",
+  "name":"Letter from Sir Harvey Bagot, Oxford, to Walter Bagot",
+  "dateCreated":"1611 April 18",
+  "description":"Nutt brought a bed up for Watt Walter Edge. Desires his father to advise Thomas Beardmore. Gilbert wants to know when to meet T. Beardmore at Harborough Fair.",
+  "folgerCallNumber":"L.a.62",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Sir Harvey Bagot, Oxford","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38945", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 187, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38946", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 188, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38947", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 189, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38948", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 190, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La620",
+  "name":"Letter from Sir Edward Littleton to Richard Bagot",
+  "dateCreated":"1589/90 February 17",
+  "description":"Encloses Capt. Thomas Whorwood's precept to the high constable, also a Letter from  Whorwood, who is pursuing a dangerous course of altering the assessments for musters. - billmen to halberds with corselets, etc.",
+  "folgerCallNumber":"L.a.620",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Sir Edward Littleton","description":"creator"},
+    {"name":"Richard Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40634", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1905, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40635", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1906, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La621",
+  "name":"Letter from Sir Edward Littleton to Walter Bagot",
+  "dateCreated":"1599 October 7",
+  "description":"A kinsman, George Littleton of Holbeach, is indicted for recusancy, but has been more careless than guilty; asks Bagot to attend the trial in Lichfield. Littleton is going to London, where the Earl of Essex is confined to York House.",
+  "folgerCallNumber":"L.a.621",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Sir Edward Littleton","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40636", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1907, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40637", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1908, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40638", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 1909, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40639", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1910, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La622",
+  "name":"Letter from Sir Edward Littleton, Pillaton, to Walter Bagot",
+  "dateCreated":"1600?",
+  "description":"Is sending a pair of horses, either of which will carry Bagot (now sheriff); they are not well known. It is said that the assembly at Stafford was rather to choose a pope than a knight of the shire, since they were all of that faction.",
+  "folgerCallNumber":"L.a.622",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Sir Edward Littleton, Pillaton","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40640", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1911, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40641", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1912, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40642", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 1913, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40643", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1914, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La623",
+  "name":"Letter from Sir Edward Littleton to Walter Bagot",
+  "dateCreated":"1604?",
+  "description":"The information sent by Bagot (now sheriff) as to the malice of Sir Walter and his faction is true. Littleton himself is not outlawed (as was rumored), but he paid 74 to get Darington of Stafford off. Hopes to see Bagot at Rugeley, where he can impart much.",
+  "folgerCallNumber":"L.a.623",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Sir Edward Littleton","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40644", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1915, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40645", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1916, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40646", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 1917, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40647", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1918, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La624",
+  "name":"Letter from Sir Edward Littleton, Heywood, to Walter Bagot",
+  "dateCreated":"1604? February 13",
+  "description":"Agrees that it is hard to breed amity between the parties, but if Bagot (sheriff) will meet with him, he is willing to try again.",
+  "folgerCallNumber":"L.a.624",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Sir Edward Littleton, Heywood","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40648", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1919, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40649", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1920, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40650", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 1921, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40651", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1922, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La625",
+  "name":"Letter from Sir Edward Littleton, Pillaton (Pillintonhall), to Walter Bagot",
+  "dateCreated":"ca. 1610",
+  "description":"Would like to have his horse back again. Has been confined with a hurt but is now better and would gladly hunt with Bagot.",
+  "folgerCallNumber":"L.a.625",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Sir Edward Littleton, Pillaton (Pillintonhall)","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40652", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1923, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40653", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso || leaf 2 recto", "mpso" : 1924, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40654", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1925, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La626",
+  "name":"Letter from Gregor Lovell and other Masters of the Queen's Household, Nonsuch, to Sir Edward Aston and Richard Bagot",
+  "dateCreated":"1595 October 13",
+  "description":"At their request is sending a marshal to bring in those who refuse to pay composition for the household. Anyone paying up and paying the marshal's fee may be discharged. A note by Bagot says that Anthony Kynnersley was brought before him and Sir John Bowes and that they paid for him.",
+  "folgerCallNumber":"L.a.626",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Gregor Lovell and other Masters of the Queen's Household, Nonsuch","description":"creator"},
+    {"name":"Sir Edward Aston and Richard Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40655", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 1926, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40656", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 1927, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40657", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 1928, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40658", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 1929, "description" : "digital image" }
+  ]
+}
+]

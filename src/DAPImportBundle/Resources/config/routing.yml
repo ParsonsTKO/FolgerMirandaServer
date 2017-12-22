@@ -1,0 +1,27 @@
+dap_import_content_type_base:
+    path:     /contenttype
+    defaults: { _controller: DAPImportBundle:ContentType:show }
+
+dap_import_content_type:
+    path:     /contenttype/{identifier}
+    defaults: { _controller: DAPImportBundle:ContentType:get }
+
+dap_import_dashboard:
+    path:     /dapimport/dashboard
+    defaults: { _controller: DAPImportBundle:View:dashboard }
+    
+dap_import_voyager:
+    path:     /dapimport/voyager
+    defaults: { _controller: DAPImportBundle:View:voyager }
+    
+dap_import_luna:
+    path:     /dapimport/luna
+    defaults: { _controller: DAPImportBundle:View:luna }
+
+dap_import_downloader:
+    path:     /dapimport/downloader
+    defaults: { _controller: DAPImportBundle:View:downloader}
+
+dap_import_binary_downloader:
+    path:     /dapimport/binary_downloader
+    defaults: { _controller: DAPImportBundle:View:binaryDownloader}

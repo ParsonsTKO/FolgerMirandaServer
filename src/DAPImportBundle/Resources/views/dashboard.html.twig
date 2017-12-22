@@ -1,0 +1,31 @@
+{% extends "AppBundle::base_layout.html.twig" %}
+
+{% block content %}
+	<div class="container-fluid Main--import">
+		<div class="row content">
+			<div class="col-md-10 col-md-offset-1 text-left">
+				<div class="page-header">
+					<h1>DAP Import Dashboard<small></small></h1>
+				</div>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tempus varius convallis. Fusce rutrum neque et cursus aliquet. Praesent feugiat quam vel odio porttitor pellentesque.</p>
+				
+				<div class="row">
+					<div class="col-md-6">
+        				<div class="list-group">
+                        	<a href="{{ path('dap_import_voyager') }}" class="list-group-item">
+                        		<span class="glyphicon glyphicon-import"></span> DAP import from Voyager Json
+                        	</a>
+                        </div>
+                    </div>
+					<div class="col-md-6">
+        				<div class="list-group">
+                        	<a href="{{ path('dap_import_luna') }}" class="list-group-item">
+                        		<span class="glyphicon glyphicon-import"></span> DAP import from Luna Json
+                        	</a>
+                        </div>
+                    </div>
+                </div>
+    		</div>
+		</div>
+	</div>
+{% endblock %}

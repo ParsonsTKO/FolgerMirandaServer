@@ -1,0 +1,5 @@
+imports:
+    - { resource: 'parameters.yml' }
+
+graphql:
+    schema_class: DAPBundle\GraphQL\Schema

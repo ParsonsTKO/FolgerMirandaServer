@@ -1,0 +1,29 @@
+services:
+    em:
+        class: Doctrine\ORM\EntityManager
+        factory: ['@doctrine', 'getManager']
+
+    dap_import.logger: '@monolog.logger.dap_import'
+   
+    dap_import.service.import:
+        class: DAPImportBundle\Services\ImportService
+        arguments: ['@em', '@service_container', '@?dap_import.logger']
+        calls:
+            - method: setImportSettings
+              arguments: ['%dap_import.import%']
+   
+    dap_import.service.schemas:
+        class: DAPImportBundle\Services\SchemasService
+        arguments: ['@service_container', '@?dap_import.logger']
+        calls:
+            - method: setSchemasSettings
+              arguments: ['%dap_import.schemas%']
+
+    dap_import.command.import:
+        class: DAPImportBundle\Command\ImportCommand
+        arguments: ['@service_container', '@?dap_import.logger']
+        calls:
+            - method: setImportSettings
+              arguments: ['%dap_import.import%']
+        tags:
+            -  { name: console.command.import }

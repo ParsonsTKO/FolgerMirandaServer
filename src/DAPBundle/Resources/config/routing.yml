@@ -1,0 +1,22 @@
+graphql:
+    resource: "@GraphQLBundle/Controller/"
+
+dap_graphiql:
+    path:     /graphiql
+    defaults: { _controller: DAPBundle:View:graphiql }
+
+dap_dashboard:
+    path:     /dap/dashboard
+    defaults: { _controller: DAPBundle:View:dashboard }
+
+dap_build_elastic_index:
+    path:     /dap/buildelasticindex
+    defaults: { _controller: DAPBundle:View:buildElastic}
+
+dap_search_test:
+    path:     /dap/searchtest
+    defaults: { _controller: DAPBundle:View:searchTest}
+
+dap_build_seo_index:
+    path:     /dap/buildseoindex
+    defaults: { _controller: DAPBundle:View:buildSEO}

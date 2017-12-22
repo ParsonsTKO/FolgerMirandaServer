@@ -1,0 +1,21 @@
+{
+  "isBasedOn":"http://findingaids.folger.edu/dfobagot.xml#La3",
+  "name":"Letter from Ralph Adderley I to Richard Bagot",
+  "dateCreated":"1587/8 February 26",
+  "description":"Bagot is abused by the clergy, who do not properly report their recusants. The lord lieutenant is wrong to charge Bagot with untruth (in L.a.803), but will probably not report it to the Council. Bagot and Mr. Blackwall to meet with Mr. Okeover soon.",
+  "folgerCallNumber":"L.a.3",
+  "format":"text",
+  "genre":"letters",
+  "agent":
+  [
+    {"name":"Ralph Adderley I","description":"creator"},
+    {"name":"Richard Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    {"@id":"http://findingaids.folger.edu/dfobagot.xml#Collection","description":"collection"},
+    {"@id":"DAP internal ID for the following rootfile","rootfile":"38766","label":"leaf 1 recto","mpso":"8","description":"digital image"},
+    {"@id":"DAP internal ID for the following rootfile","rootfile":"38767","label":"leaf 1 verso","mpso":"9","description":"digital image"}
+  ]
+}

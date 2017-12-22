@@ -1,0 +1,111 @@
+{% extends "AppBundle::base_layout.html.twig" %}
+
+{% block content %}
+	<div class="container-fluid Main--dap">
+		<div class="row">
+			<div class="col-md-10 col-md-offset-1 text-left">
+				<div class="page-header">
+					<h1>DAP API <small>GraphQL Proof of Concept</small></h1>
+				</div>
+				<div class="row">
+					<div class="col-md-6">
+        				<h3>Simple GraphQL Queries</h3>
+        				<div class="list-group">
+                        	<a href="#" class="list-group-item active" data-iframe-src="/graphiql?query=%7B%0A%20%20hello%0A%7D%0A">
+                        		Hello Query
+                        	</a>
+                        	<a href="#" class="list-group-item" data-iframe-src="/graphiql?query=%7B%0A%20%20hello(name%3A%20%22Folger%20DAP%22)%0A%7D%0A">
+                        		Hello Query with an argument
+                        	</a>
+                        	<a href="#" class="list-group-item" data-iframe-src="/graphiql?query=%7B%0A%20%20currentTime%0A%7D%0A">
+                        		Current time Query
+                        	</a>
+                        	<a href="#" class="list-group-item" data-iframe-src="/graphiql?query=%7B%0A%20%20basicRecord%20%7B%0A%20%20%20%20id%0A%20%20%20%20dapID%0A%20%20%20%20createdDate%0A%20%20%20%20updatedDate%0A%20%20%20%20remoteSystem%0A%20%20%20%20remoteID%0A%20%20%20%20recordType%0A%20%20%20%20metadata%0A%20%20%7D%0A%7D%0A">
+                        		Record Query
+                        	</a>
+                		</div>
+                	</div>
+					<div class="col-md-6">
+        				<h3>Complex GraphQL Queries <small></small></h3>
+        				<div class="list-group">
+        					{#/graphql?query={allRecords{id,dapID,createdDate,updatedDate,remoteSystem,remoteID,recordType}}#}
+                        	<a href="#" class="list-group-item" data-iframe-src="/graphiql?query=%7B%0A%20%20allRecords%20%7B%0A%20%20%20%20id%0A%20%20%20%20dapID%0A%20%20%20%20createdDate%0A%20%20%20%20updatedDate%0A%20%20%20%20remoteSystem%0A%20%20%20%20remoteID%0A%20%20%20%20recordType%0A%20%20%7D%0A%7D%0A">
+                        		Records Query (All records)
+                        	</a>
+                        	{#/graphql?query={allRecords(id:2){id,dapID,createdDate,updatedDate,remoteSystem,remoteID,recordType}}#}
+                        	<a href="#" class="list-group-item" data-iframe-src="/graphiql?query=%7B%0A%20%20allRecords(id%3A%202)%20%7B%0A%20%20%20%20id%0A%20%20%20%20dapID%0A%20%20%20%20createdDate%0A%20%20%20%20updatedDate%0A%20%20%20%20remoteSystem%0A%20%20%20%20remoteID%0A%20%20%20%20recordType%0A%20%20%7D%0A%7D%0A">
+                        		Records Query with arguments (Record by ID)
+                        	</a>
+                        </div>
+        			</div>
+        		</div>
+        		<div class="row">
+					<div class="col-md-12">
+        				<h3>Complex GraphQL Queries <small>Folger Json</small></h3>
+        				<div class="list-group">
+                                                
+        					{#/graphql?query={records{dapID,recordType,about{uri,description},additionalType,alternateName,creator{givenName,familyName,authority},dateCreated,datePublished{startDate},extent,folgerCallNumber,folgerDimensions,folgerProvenance,folgerRelatedItems{id,rootfile,label,mpso,about,description},format,from,genre{search,uri},inLanguage,isBasedOn,license,locationCreated{addressLocality,addressCountry},MPSO,name,position,publisher,size}}#}
+                        	<a href="#" class="list-group-item" data-iframe-src="/graphiql?query=%7B%0D%0A%20%20records%20%7B%0D%0A%20%20%20%20dapID%0D%0A%20%20%20%20recordType%0D%0A%20%20%20%20about%20%7B%0D%0A%20%20%20%20%20%20uri%0D%0A%20%20%20%20%20%20description%0D%0A%20%20%20%20%7D%0D%0A%20%20%20%20alternateName%0D%0A%20%20%20%20creator%20%7B%0D%0A%20%20%20%20%20%20givenName%0D%0A%20%20%20%20%20%20familyName%0D%0A%20%20%20%20%20%20authority%0D%0A%20%20%20%20%7D%0D%0A%20%20%20%20dateCreated%0D%0A%20%20%20%20datePublished%20%7B%0D%0A%20%20%20%20%20%20startDate%0D%0A%20%20%20%20%7D%0D%0A%20%20%20%20extent%0D%0A%20%20%20%20folgerCallNumber%0D%0A%20%20%20%20folgerProvenance%0D%0A%20%20%20%20internalRelations%20%7B%0D%0A%20%20%20%20%20%20remoteUniqueID%0D%0A%20%20%20%20%20%20dapID%0D%0A%20%20%20%20%20%20name%0D%0A%20%20%20%20%20%20description%0D%0A%20%20%20%20%20%20date%0D%0A%20%20%20%20%20%20mediaFormat%0D%0A%20%20%20%20%20%20location%0D%0A%20%20%20%20%20%20thumbnail%0D%0A%20%20%20%20%7D%0D%0A%20%20%20%20folgerRelatedItems%20%7B%0D%0A%20%20%20%20%20%20id%0D%0A%20%20%20%20%20%20folgerRemoteIdentification%7B%0D%0A%20%20%20%20%20%20%20%20folgerRemoteUniqueID%0D%0A%20%20%20%20%20%20%20%20folgerRemoteSystemID%0D%0A%20%20%20%20%20%20%7D%0D%0A%20%20%20%20%20%20folgerRelationshipType%0D%0A%20%20%20%20%20%20folgerObjectType%0D%0A%20%20%20%20%20%20label%0D%0A%20%20%20%20%20%20mpso%0D%0A%20%20%20%20%20%20description%0D%0A%20%20%20%20%7D%0D%0A%20%20%20%20format%0D%0A%20%20%20%20genre%20%7B%0D%0A%20%20%20%20%20%20search%0D%0A%20%20%20%20%20%20uri%0D%0A%20%20%20%20%7D%0D%0A%20%20%20%20inLanguage%0D%0A%20%20%20%20locationCreated%20%7B%0D%0A%20%20%20%20%20%20addressLocality%0D%0A%20%20%20%20%20%20addressCountry%0D%0A%20%20%20%20%7D%0D%0A%20%20%20%20name%0D%0A%20%20%20%20size%0D%0A%20%20%7D%0D%0A%7D%0D%0A">
+                        		Voyager Records Query (All metadata records)
+                        	</a>
+                        	{#/graphql?query={records(dapID:%222cdaf117-9d92-4222-9616-304d4f30242a%22){dapID,recordType,about{uri,description},additionalType,alternateName,creator{givenName,familyName,authority},dateCreated,datePublished{startDate},extent,folgerCallNumber,folgerDimensions,folgerProvenance,folgerRelatedItems{id,rootfile,label,mpso,about,description},format,from,genre{search,uri},inLanguage,isBasedOn,license,locationCreated{addressLocality,addressCountry},MPSO,name,position,publisher,size}}#}
+                        	<a href="#" class="list-group-item" data-iframe-src="/graphiql?query=%7B%0D%0A%20%20records%28dapID%3A%20%22beafb49c-f4df-4d49-814d-9c77289413eb%22%29%20%7B%0D%0A%20%20%20%20dapID%0D%0A%20%20%20%20recordType%0D%0A%20%20%20%20about%20%7B%0D%0A%20%20%20%20%20%20uri%0D%0A%20%20%20%20%20%20description%0D%0A%20%20%20%20%7D%0D%0A%20%20%20%20alternateName%0D%0A%20%20%20%20creator%20%7B%0D%0A%20%20%20%20%20%20givenName%0D%0A%20%20%20%20%20%20familyName%0D%0A%20%20%20%20%20%20authority%0D%0A%20%20%20%20%7D%0D%0A%20%20%20%20dateCreated%0D%0A%20%20%20%20datePublished%20%7B%0D%0A%20%20%20%20%20%20startDate%0D%0A%20%20%20%20%7D%0D%0A%20%20%20%20extent%0D%0A%20%20%20%20folgerCallNumber%0D%0A%20%20%20%20folgerProvenance%0D%0A%20%20%20%20internalRelations%20%7B%0D%0A%20%20%20%20%20%20remoteUniqueID%0D%0A%20%20%20%20%20%20dapID%0D%0A%20%20%20%20%20%20name%0D%0A%20%20%20%20%20%20description%0D%0A%20%20%20%20%20%20date%0D%0A%20%20%20%20%20%20mediaFormat%0D%0A%20%20%20%20%20%20location%0D%0A%20%20%20%20%20%20thumbnail%0D%0A%20%20%20%20%7D%0D%0A%20%20%20%20folgerRelatedItems%20%7B%0D%0A%20%20%20%20%20%20id%0D%0A%20%20%20%20%20%20folgerRemoteIdentification%7B%0D%0A%20%20%20%20%20%20%20%20folgerRemoteUniqueID%0D%0A%20%20%20%20%20%20%20%20folgerRemoteSystemID%0D%0A%20%20%20%20%20%20%7D%0D%0A%20%20%20%20%20%20folgerRelationshipType%0D%0A%20%20%20%20%20%20folgerObjectType%0D%0A%20%20%20%20%20%20label%0D%0A%20%20%20%20%20%20mpso%0D%0A%20%20%20%20%20%20description%0D%0A%20%20%20%20%7D%0D%0A%20%20%20%20format%0D%0A%20%20%20%20genre%20%7B%0D%0A%20%20%20%20%20%20search%0D%0A%20%20%20%20%20%20uri%0D%0A%20%20%20%20%7D%0D%0A%20%20%20%20inLanguage%0D%0A%20%20%20%20locationCreated%20%7B%0D%0A%20%20%20%20%20%20addressLocality%0D%0A%20%20%20%20%20%20addressCountry%0D%0A%20%20%20%20%7D%0D%0A%20%20%20%20name%0D%0A%20%20%20%20size%0D%0A%20%20%7D%0D%0A%7D%0D%0A">
+                        		Voyager Records Query with arguments (Metadata record by DapId)
+                        	</a>
+                        	{#/graphql?query={records(searchText:%20%22game%22){dapID,recordType,about{uri,description},additionalType,alternateName,creator{givenName,familyName,authority},dateCreated,datePublished{startDate},extent,folgerCallNumber,folgerDimensions,folgerProvenance,folgerRelatedItems{id,rootfile,label,mpso,about,description},format,from,genre{search,uri},inLanguage,isBasedOn,license,locationCreated{addressLocality,addressCountry},MPSO,name,position,publisher,size}}#}
+                        	<a href="#" class="list-group-item" data-iframe-src="/graphiql?query=%7B%0D%0A%20%20records%28searchText%3A%20%22game%22%29%20%7B%0D%0A%20%20%20%20dapID%0D%0A%20%20%20%20recordType%0D%0A%20%20%20%20about%20%7B%0D%0A%20%20%20%20%20%20uri%0D%0A%20%20%20%20%20%20description%0D%0A%20%20%20%20%7D%0D%0A%20%20%20%20alternateName%0D%0A%20%20%20%20creator%20%7B%0D%0A%20%20%20%20%20%20givenName%0D%0A%20%20%20%20%20%20familyName%0D%0A%20%20%20%20%20%20authority%0D%0A%20%20%20%20%7D%0D%0A%20%20%20%20dateCreated%0D%0A%20%20%20%20datePublished%20%7B%0D%0A%20%20%20%20%20%20startDate%0D%0A%20%20%20%20%7D%0D%0A%20%20%20%20extent%0D%0A%20%20%20%20folgerCallNumber%0D%0A%20%20%20%20folgerProvenance%0D%0A%20%20%20%20internalRelations%20%7B%0D%0A%20%20%20%20%20%20remoteUniqueID%0D%0A%20%20%20%20%20%20dapID%0D%0A%20%20%20%20%20%20name%0D%0A%20%20%20%20%20%20description%0D%0A%20%20%20%20%20%20date%0D%0A%20%20%20%20%20%20mediaFormat%0D%0A%20%20%20%20%20%20location%0D%0A%20%20%20%20%20%20thumbnail%0D%0A%20%20%20%20%7D%0D%0A%20%20%20%20folgerRelatedItems%20%7B%0D%0A%20%20%20%20%20%20id%0D%0A%20%20%20%20%20%20folgerRemoteIdentification%7B%0D%0A%20%20%20%20%20%20%20%20folgerRemoteUniqueID%0D%0A%20%20%20%20%20%20%20%20folgerRemoteSystemID%0D%0A%20%20%20%20%20%20%7D%0D%0A%20%20%20%20%20%20folgerRelationshipType%0D%0A%20%20%20%20%20%20folgerObjectType%0D%0A%20%20%20%20%20%20label%0D%0A%20%20%20%20%20%20mpso%0D%0A%20%20%20%20%20%20description%0D%0A%20%20%20%20%7D%0D%0A%20%20%20%20format%0D%0A%20%20%20%20genre%20%7B%0D%0A%20%20%20%20%20%20search%0D%0A%20%20%20%20%20%20uri%0D%0A%20%20%20%20%7D%0D%0A%20%20%20%20inLanguage%0D%0A%20%20%20%20locationCreated%20%7B%0D%0A%20%20%20%20%20%20addressLocality%0D%0A%20%20%20%20%20%20addressCountry%0D%0A%20%20%20%20%7D%0D%0A%20%20%20%20name%0D%0A%20%20%20%20size%0D%0A%20%20%7D%0D%0A%7D%0D%0A%0D%0A">
+
+                        		Voyager Records Query with arguments (Metadata records by Search text)
+                        	</a>
+                        	{#/graphql?query={records{dapID,recordType,about{uri,description},additionalType,alternateName,creator{givenName,familyName,authority},dateCreated,datePublished{startDate},extent,folgerCallNumber,folgerDimensions,folgerProvenance,folgerRelatedItems{id,rootfile,label,mpso,about,description},format,from,genre{search,uri},inLanguage,isBasedOn,license,locationCreated{addressLocality,addressCountry},MPSO,name,position,publisher,size,images{rootfile,callNumber,pageNumber,multiPageSortOrder,title,author,imprintOrigin,bibId,holdingsId,lunaObjectId,lunaImageId,lunaURL,size4jpgURL,size5jpgURL,size6jpgURL,size7jpgURL,dateCreated,dateUpdated,mainImage{small,medium,large}}}}#}
+                        	<a href="#" class="list-group-item" data-iframe-src="/graphiql?query=%7B%0D%0A%20%20records%20%7B%0D%0A%20%20%20%20dapID%0D%0A%20%20%20%20recordType%0D%0A%20%20%20%20about%20%7B%0D%0A%20%20%20%20%20%20uri%0D%0A%20%20%20%20%20%20description%0D%0A%20%20%20%20%7D%0D%0A%20%20%20%20alternateName%0D%0A%20%20%20%20creator%20%7B%0D%0A%20%20%20%20%20%20givenName%0D%0A%20%20%20%20%20%20familyName%0D%0A%20%20%20%20%20%20authority%0D%0A%20%20%20%20%7D%0D%0A%20%20%20%20dateCreated%0D%0A%20%20%20%20datePublished%20%7B%0D%0A%20%20%20%20%20%20startDate%0D%0A%20%20%20%20%7D%0D%0A%20%20%20%20extent%0D%0A%20%20%20%20folgerCallNumber%0D%0A%20%20%20%20folgerProvenance%0D%0A%20%20%20%20internalRelations%20%7B%0D%0A%20%20%20%20%20%20remoteUniqueID%0D%0A%20%20%20%20%20%20dapID%0D%0A%20%20%20%20%20%20name%0D%0A%20%20%20%20%20%20description%0D%0A%20%20%20%20%20%20date%0D%0A%20%20%20%20%20%20mediaFormat%0D%0A%20%20%20%20%20%20location%0D%0A%20%20%20%20%20%20thumbnail%0D%0A%20%20%20%20%7D%0D%0A%20%20%20%20folgerRelatedItems%20%7B%0D%0A%20%20%20%20%20%20id%0D%0A%20%20%20%20%20%20folgerRemoteIdentification%7B%0D%0A%20%20%20%20%20%20%20%20folgerRemoteUniqueID%0D%0A%20%20%20%20%20%20%20%20folgerRemoteSystemID%0D%0A%20%20%20%20%20%20%7D%0D%0A%20%20%20%20%20%20folgerRelationshipType%0D%0A%20%20%20%20%20%20folgerObjectType%0D%0A%20%20%20%20%20%20label%0D%0A%20%20%20%20%20%20mpso%0D%0A%20%20%20%20%20%20description%0D%0A%20%20%20%20%7D%0D%0A%20%20%20%20format%0D%0A%20%20%20%20genre%20%7B%0D%0A%20%20%20%20%20%20search%0D%0A%20%20%20%20%20%20uri%0D%0A%20%20%20%20%7D%0D%0A%20%20%20%20inLanguage%0D%0A%20%20%20%20locationCreated%20%7B%0D%0A%20%20%20%20%20%20addressLocality%0D%0A%20%20%20%20%20%20addressCountry%0D%0A%20%20%20%20%7D%0D%0A%20%20%20%20name%0D%0A%20%20%20%20size%0D%0A%20%20%20%20images%20%7B%0D%0A%20%20%20%20%20%20rootfile%0D%0A%20%20%20%20%20%20callNumber%0D%0A%20%20%20%20%20%20pageNumber%0D%0A%20%20%20%20%20%20multiPageSortOrder%0D%0A%20%20%20%20%20%20title%0D%0A%20%20%20%20%20%20author%0D%0A%20%20%20%20%20%20imprintOrigin%0D%0A%20%20%20%20%20%20bibId%0D%0A%20%20%20%20%20%20holdingsId%0D%0A%20%20%20%20%20%20lunaObjectId%0D%0A%20%20%20%20%20%20lunaImageId%0D%0A%20%20%20%20%20%20lunaURL%0D%0A%20%20%20%20%20%20size4jpgURL%0D%0A%20%20%20%20%20%20size5jpgURL%0D%0A%20%20%20%20%20%20size6jpgURL%0D%0A%20%20%20%20%20%20size7jpgURL%0D%0A%20%20%20%20%20%20dateCreated%0D%0A%20%20%20%20%20%20dateUpdated%0D%0A%20%20%20%20%20%20mainImage%20%7B%0D%0A%20%20%20%20%20%20%20%20small%0D%0A%20%20%20%20%20%20%20%20medium%0D%0A%20%20%20%20%20%20%20%20large%0D%0A%20%20%20%20%20%20%7D%0D%0A%20%20%20%20%7D%0D%0A%20%20%7D%0D%0A%7D%0D%0A">
+                        		Voyager Records Query (Metadata records with images)
+                        	</a>
+                        </div>
+        			</div>
+<!--
+					<div class="col-md-6">
+        				<h3>Complex GraphQL Queries <small>Luna Json</small></h3>
+        				<div class="list-group">
+        					{#/graphql?query={records{dapID,recordType,rootfile,callNumber,pageNumber,multiPageSortOrder,title,author,imprintOrigin,bibId,holdingsId,lunaObjectId,lunaImageId,lunaURL,size4jpgURL,size5jpgURL,size6jpgURL,size7jpgURL,dateCreated,dateUpdated,mainImage{small,medium,large}}}#}
+                        	<a href="#" class="list-group-item" data-iframe-src="/graphiql?query=%7B%0A%20%20records%20%7B%0A%20%20%20%20dapID%0A%20%20%20%20recordType%0A%20%20%20%20rootfile%0A%20%20%20%20callNumber%0A%20%20%20%20pageNumber%0A%20%20%20%20multiPageSortOrder%0A%20%20%20%20title%0A%20%20%20%20author%0A%20%20%20%20imprintOrigin%0A%20%20%20%20bibId%0A%20%20%20%20holdingsId%0A%20%20%20%20lunaObjectId%0A%20%20%20%20lunaImageId%0A%20%20%20%20lunaURL%0A%20%20%20%20size4jpgURL%0A%20%20%20%20size5jpgURL%0A%20%20%20%20size6jpgURL%0A%20%20%20%20size7jpgURL%0A%20%20%20%20dateCreated%0A%20%20%20%20dateUpdated%0A%20%20%20%20mainImage%20%7B%0A%20%20%20%20%20%20small%0A%20%20%20%20%20%20medium%0A%20%20%20%20%20%20large%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%0A">
+                        		Luna Records Query (All records)
+                        	</a>
+                        	{#/graphql?query={records(dapID:"3c9b8c52-ec0e-427d-8ef6-4677b58b3bb7"){dapID,recordType,rootfile,callNumber,pageNumber,multiPageSortOrder,title,author,imprintOrigin,bibId,holdingsId,lunaObjectId,lunaImageId,lunaURL,size4jpgURL,size5jpgURL,size6jpgURL,size7jpgURL,dateCreated,dateUpdated,mainImage{small,medium,large}}}#}
+                        	<a href="#" class="list-group-item" data-iframe-src="/graphiql?query=%7B%0A%20%20records(dapID%3A%20%223c9b8c52-ec0e-427d-8ef6-4677b58b3bb7%22)%20%7B%0A%20%20%20%20dapID%0A%20%20%20%20recordType%0A%20%20%20%20rootfile%0A%20%20%20%20callNumber%0A%20%20%20%20pageNumber%0A%20%20%20%20multiPageSortOrder%0A%20%20%20%20title%0A%20%20%20%20author%0A%20%20%20%20imprintOrigin%0A%20%20%20%20bibId%0A%20%20%20%20holdingsId%0A%20%20%20%20lunaObjectId%0A%20%20%20%20lunaImageId%0A%20%20%20%20lunaURL%0A%20%20%20%20size4jpgURL%0A%20%20%20%20size5jpgURL%0A%20%20%20%20size6jpgURL%0A%20%20%20%20size7jpgURL%0A%20%20%20%20dateCreated%0A%20%20%20%20dateUpdated%0A%20%20%20%20mainImage%20%7B%0A%20%20%20%20%20%20small%0A%20%20%20%20%20%20medium%0A%20%20%20%20%20%20large%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%0A">
+                        		Luna Records Query with arguments (Metadata record by DapId)
+                        	</a>
+        					{#/graphql?query={records(rootfile:%2252094%22){dapID,recordType,rootfile,callNumber,pageNumber,multiPageSortOrder,title,author,imprintOrigin,bibId,holdingsId,lunaObjectId,lunaImageId,lunaURL,size4jpgURL,size5jpgURL,size6jpgURL,size7jpgURL,dateCreated,dateUpdated,mainImage{small,medium,large}}}#}
+                        	<a href="#" class="list-group-item" data-iframe-src="/graphiql?query=%7B%0A%20%20records(rootfile%3A%20%2252094%22)%20%7B%0A%20%20%20%20dapID%0A%20%20%20%20recordType%0A%20%20%20%20rootfile%0A%20%20%20%20callNumber%0A%20%20%20%20pageNumber%0A%20%20%20%20multiPageSortOrder%0A%20%20%20%20title%0A%20%20%20%20author%0A%20%20%20%20imprintOrigin%0A%20%20%20%20bibId%0A%20%20%20%20holdingsId%0A%20%20%20%20lunaObjectId%0A%20%20%20%20lunaImageId%0A%20%20%20%20lunaURL%0A%20%20%20%20size4jpgURL%0A%20%20%20%20size5jpgURL%0A%20%20%20%20size6jpgURL%0A%20%20%20%20size7jpgURL%0A%20%20%20%20dateCreated%0A%20%20%20%20dateUpdated%0A%20%20%20%20mainImage%20%7B%0A%20%20%20%20%20%20small%0A%20%20%20%20%20%20medium%0A%20%20%20%20%20%20large%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%0A">
+                        		Luna Records Query with arguments (Metadata record by Rootfile)
+                        	</a>
+                        </div>
+        			</div>
+                </div>
+-->
+        		
+        		<div class="page-header">
+					<h3>GraphiQL Client <small id="graphiql-title">Hello Query</small></h3>
+				</div>
+        		<div class="embed-responsive embed-responsive-4by3 embed-responsive-iframe">
+                	<iframe id="graphQLIframe" class="embed-responsive-item" src="/graphiql?query=%7B%0A%20%20hello%0A%7D%0A"></iframe>
+                </div>
+                <br>
+			</div>
+		</div>
+	</div>
+{% endblock %}
+
+{% block additional_script %}
+	<script>
+    	$(document).ready(function() {
+    		$(".list-group a").on( "click", function(event) {
+        		event.preventDefault()
+        		$(".list-group a").removeClass("active");
+        		$(this).addClass("active");
+        		$("#graphiql-title").text($(this).text());
+        		$("#graphQLIframe").attr('src', $(this).data('iframe-src'));
+    		});
+        });
+   	</script>
+{% endblock %}

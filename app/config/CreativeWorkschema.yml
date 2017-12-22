@@ -1,0 +1,20 @@
+# app/config/schema.yml
+
+# The list of types and properties we want to use
+types:
+    # Parent class of Person
+    Thing:
+        properties:
+            name: ~
+            identifier: ~
+            description: ~
+    CreativeWork:
+        properties:
+            about: ~
+            author: {range: "Text" }
+            citation: ~
+            datePublished: ~
+            publisher: {range: "Text" }
+            genre: ~
+            mentions: ~
+            material: ~

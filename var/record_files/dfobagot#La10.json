@@ -1,0 +1,21 @@
+{
+  "isBasedOn":"http://findingaids.folger.edu/dfobagot.xml#La10",
+  "name":"Letter from William Adderley to Anthony Bagot",
+  "dateCreated":"1596/7 February 11",
+  "description":"Was filled with sorrow at hearing of the death of Bagot's father. Has furnished Thomas Beardmore with money, which he took up at interest. Repayment, 102 10 shillings, is to be made at George Allen's shop in Uttoxeter on May 8th. Jas bought blacks which will be to Bagot's liking. Expects to be in Staffordshire in the latter part of the month.",
+  "folgerCallNumber":"L.a.10",
+  "format":"text",
+  "genre":"letters",
+  "agent":
+  [
+    {"name":"William Adderley","description":"creator"},
+    {"name":"Anthony Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    {"@id":"http://findingaids.folger.edu/dfobagot.xml#Collection","description":"collection"},
+    {"@id":"DAP internal ID for the following rootfile","rootfile":"38782","label":"leaf 1 recto","mpso":"24","description":"digital image"},
+    {"@id":"DAP internal ID for the following rootfile","rootfile":"38783","label":"leaf 1 verso","mpso":"25","description":"digital image"}
+  ]
+}

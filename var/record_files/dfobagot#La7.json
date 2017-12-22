@@ -1,0 +1,21 @@
+{
+  "isBasedOn":"http://findingaids.folger.edu/dfobagot.xml#La7",
+  "name":"Letter from Ralph Adderley II, Marchington, to Walter Bagot",
+  "dateCreated":"1606/7 March 4",
+  "description":"If Bagot wishes to repay the money shortly to be due, Adderley will come for it on the 10th of the month; otherwise the loan may be extended.",
+  "folgerCallNumber":"L.a.7",
+  "format":"text",
+  "genre":"letters",
+  "agent":
+  [
+    {"name":"Ralph Adderley II, Marchington","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    {"@id":"http://findingaids.folger.edu/dfobagot.xml#Collection","description":"collection"},
+    {"@id":"DAP internal ID for the following rootfile","rootfile":"38775","label":"leaf 1 recto","mpso":"17","description":"digital image"},
+    {"@id":"DAP internal ID for the following rootfile","rootfile":"38776","label":"leaf 1 verso","mpso":"18","description":"digital image"}
+  ]
+}

@@ -1,0 +1,5 @@
+parameters:
+  dap_file_service:
+    binary_endpoint: 'http://dapdev.dev/'
+    #binary_endpoint: 'http://dap.parsonstko.com/'
+    binary_path: 'var/folger/storage/binary/'

@@ -1,0 +1,19 @@
+services:
+    em:
+        class: Doctrine\ORM\EntityManager
+        factory: ['@doctrine', 'getManager']
+
+    dap.resolver.base:
+        class: DAPBundle\Resolver\AbstractResolver
+        abstract: true
+        calls:
+            - [ init, ['@em']]
+
+    dap.resolver.record:
+        class: DAPBundle\Resolver\RecordResolver
+        parent: 'dap.resolver.base'
+
+    dap.resolver.elastic:
+        class: DAPBundle\Resolver\ElasticResolver
+        parent: 'dap.resolver.base'
+        arguments: ['@es.manager']

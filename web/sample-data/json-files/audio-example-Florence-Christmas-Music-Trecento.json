@@ -1,0 +1,38 @@
+[{
+  "RemoteUniqueID": "https://parsonstko.teamwork.com/#messages/748875",
+  "isBasedOn": "https://parsonstko.teamwork.com/#messages/748875",
+  "name":  "Florence: Christmas Music of the Trecento" ,
+  "datePublished": {"startDate": 2012, "endDate":2012},
+  "dateCreated": "December 14-23,2012",
+  "locationCreated" : 
+  {
+    "@type": "Place",
+    "addressLocality": "Washington D.C.",
+    "addressCountry": "United States",
+    "URI":"http://id.loc.gov/authorities/names/n79018774"
+  },
+  "description": "DATE OF CONCERTS: December 14-23,2012 TITLE OF PERFORMANCE: FLORENCE: Christmas Music of the Trecento ARTISTS AND INSTRUMENTS: Christa Patton (Harp, Recorder, Bagpipe) Mark Rimple (Lute, Psaltery, Medieval Fiddle) Mary Springles (Medieval Fiddle, Citole) Trios Eos (Vocal Ensemble) Robert Einstein (Medieval Fiddle, Recorder, Lute)",
+  "format" : "sound",
+  "inLanguage": "eng",
+  "genre" :
+  [
+    {
+      "search": "Live sound recordings", 
+      "terms": ["Live sound recordings"],
+      "uri": "http://id.loc.gov/authorities/genreForms/gf2011026368"
+    },
+    {
+      "search": "Christmas music",
+      "terms": ["Christmas music"],
+      "uri": "http://id.loc.gov/authorities/genreForms/gf2014026716"
+    }
+  ],
+  "folgerRelatedItems" : [
+    {"@id" : "", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "http://dapdev.dev/var/folger/storage/trecento/AKG_L_Act_1.wav", "folgerRemoteSystemID" : "binary-files" }, "folgerRelationshipType" : "included audio", "folgerObjectType" : "audio", "label" : "AKG L Act 1", "mpso" : 1, "description" : "AKG L Act 1 in WAV format" },
+    {"@id" : "", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "http://dapdev.dev/var/folger/storage/trecento/AKG_L_Act_2.wav", "folgerRemoteSystemID" : "binary-files" }, "folgerRelationshipType" : "included audio", "folgerObjectType" : "audio", "label" : "AKG L Act 2", "mpso" : 2, "description" : "AKG L Act 2 in WAV format" },
+    {"@id" : "", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "http://dapdev.dev/var/folger/storage/trecento/AKG_R_Act_1.wav", "folgerRemoteSystemID" : "binary-files" }, "folgerRelationshipType" : "included audio", "folgerObjectType" : "audio", "label" : "AKG R Act 1", "mpso" : 3, "description" : "AKG R Act 1 in WAV format" },
+    {"@id" : "", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "http://dapdev.dev/var/folger/storage/trecento/AKG_R_Act_2.wav", "folgerRemoteSystemID" : "binary-files" }, "folgerRelationshipType" : "included audio", "folgerObjectType" : "audio", "label" : "AKG R Act 2", "mpso" : 1, "description" : "AKG R Act 2 in WAV format" }
+  ]
+
+
+}]

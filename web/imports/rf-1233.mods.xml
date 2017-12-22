@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+
+<titleInfo><title>Mr. VVilliam Shakespeares comedies, histories, and tragedies ...</title></titleInfo>
+<name><namePart>Shakespeare, William, 1564-1616.</namePart></name>
+<typeOfResource>text</typeOfResource>
+<originInfo>
+  <dateIssued keyDate="yes">1632</dateIssued>
+  <dateCaptured>2014-12-30T16:24:04Z</dateCaptured>
+</originInfo>
+<physicalDescription>  
+  <reformattingQuality>access</reformattingQuality>
+  <internetMediaType>image/jpeg</internetMediaType>
+  <extent>1 image</extent>
+  <digitalOrigin>reformatted digital</digitalOrigin>
+  <note type="page-level-metadata">p.119</note>
+</physicalDescription>
+<classification>STC 22274 Fo.2/fragment 10</classification>
+<identifier type="digital image id">1233</identifier>
+<identifier type="digital image record id">5140</identifier>
+<identifier type="hamnet bib id">97407</identifier>
+<identifier type="hamnet holdings id">98028</identifier>
+<location>  
+  <physicalLocation>dfo</physicalLocation>
+  <shelfLocator>STC 22274 Fo.2/fragment 10</shelfLocator>
+  <url access="object in context">http://luna.folger.edu/luna/servlet/detail/FOLGERCM1~6~6~355~100018</url>
+  <url access="raw object" note="size 0: 67 x 96">http://luna.folger.edu:80/MediaManager/srvr?mediafile=/Size0/Folger-1-NA/1001/001233.jpg</url>
+  <url access="raw object" note="size 1: 135 x 192">http://luna.folger.edu:80/MediaManager/srvr?mediafile=/Size1/Folger-1-NA/1001/001233.jpg</url>
+  <url access="raw object" note="size 2: 270 x 384">http://luna.folger.edu:80/MediaManager/srvr?mediafile=/Size2/Folger-1-NA/1001/001233.jpg</url>
+  <url access="raw object" note="size 3: 540 x 768">http://luna.folger.edu:80/MediaManager/srvr?mediafile=/Size3/Folger-1-NA/1001/001233.jpg</url>
+  <url access="raw object" note="size 4: 1080 x 1536">http://luna.folger.edu:80/MediaManager/srvr?mediafile=/Size4/Folger-1-NA/1001/001233.jpg</url>
+  <url access="raw object" note="size 5: 1353 x 1924">http://luna.folger.edu:80/MediaManager/srvr?mediafile=/JP2K/Folger-1-NA/1001/001233.jp2&amp;level=2&amp;width=1353&amp;height=1924</url>
+  <url access="raw object" note="size 6: 2706 x 3848">http://luna.folger.edu:80/MediaManager/srvr?mediafile=/JP2K/Folger-1-NA/1001/001233.jp2&amp;level=1&amp;width=2706&amp;height=3848</url>
+  <url access="raw object" note="size 7: 5414 x 7697">http://luna.folger.edu:80/MediaManager/srvr?mediafile=/JP2K/Folger-1-NA/1001/001233.jp2&amp;width=5414&amp;height=7697</url>
+</location>
+<accessCondition type="use and reproduction">Unless under non-Folger copyright, images from Luna are licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0). Use of Folger images under the CC BY-SA license does not require asking for additional permission, provided that you cite the Folger Shakespeare Library as the source and you license anything you create using the images under the same or equivalent license. For more information, including permissions beyond the scope of this license, see Permissions Policy.</accessCondition>
+</mods>

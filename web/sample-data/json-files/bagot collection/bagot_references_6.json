@@ -1,0 +1,2019 @@
+[{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La686",
+  "name":"Letter from Sir William Peryam, Stafford, to the treasurers of the Staffordshire poor fund",
+  "dateCreated":"1598/99 March 3",
+  "description":"The town of Tiverton, Devon, having suffered a disastrous fire, the queen has appointed the justices of assize to rate all counties and collect 5,000 for relief of the town. Staffordshire is assessed at due 90, to be paid in three annual portions, the first due at the ensuing general sessions. Signed also by John Clench.",
+  "folgerCallNumber":"L.a.686",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Sir William Peryam, Stafford","description":"creator"},
+    {"name":"the treasurers of the Staffordshire poor fund","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40851", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2126, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40852", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2127, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40853", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2128, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40854", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2129, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La687",
+  "name":"Letter from Sir William Peryam, Stafford, to the treasurers of the Staffordshire poor fund : copy",
+  "description":"A copy of the foregoing in Walter Bagot's hand.",
+  "folgerCallNumber":"L.a.687",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Sir William Peryam, Stafford","description":"creator"},
+    {"name":"the treasurers of the Staffordshire poor fund : copy","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40855", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2130, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40856", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2131, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40857", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2132, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40858", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2133, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La688",
+  "name":"Letter from Sir William Peryam, Sergeants' Inn, London, to Walter Bagot",
+  "dateCreated":"1599 November 22",
+  "description":"Bagot having been chosen sheriff, Peryam asks that John Hughes, who has long been bailiff of Seisdon Hundred, may continue in the office for this year.",
+  "folgerCallNumber":"L.a.688",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Sir William Peryam, Sergeants' Inn, London","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40859", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2134, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40860", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2135, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40861", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2136, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40862", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2137, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La689",
+  "name":"Letter from Sir William Peryam, Sergeants' Inn, London, to Walter Bagot, sheriff",
+  "dateCreated":"1599 November 26",
+  "description":"Ask that William Watkins be continued in the bailiwicks of Offlow warden.",
+  "folgerCallNumber":"L.a.689",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Sir William Peryam, Sergeants' Inn, London","description":"creator"},
+    {"name":"Walter Bagot, sheriff","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40863", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2138, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40864", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2139, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40865", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2140, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40866", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2141, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La69",
+  "name":"Letter from Richard Bagot to Lord Burghley",
+  "dateCreated":"ca. 1587 September 1587",
+  "description":"Has examined Johan Thompson (Tomson), alias Cooke, and William Crispe and finds that Crispe is entitled to the property involved.",
+  "folgerCallNumber":"L.a.69",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Richard Bagot","description":"creator"},
+    {"name":"Lord Burghley","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38973", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 215, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38974", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 216, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La690",
+  "name":"Letter from Thomas Peshall to Richard Bagot",
+  "dateCreated":"1590/91 January 10",
+  "description":"Has been reported to the Lord Treasurer as a recusant, but is none; asks Bagot to satisfy his accuser and have him report to the clerk of assize. Has not attended church in Staffordshire because he has not spent a Sunday in the county in more than a year.",
+  "folgerCallNumber":"L.a.690",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Thomas Peshall","description":"creator"},
+    {"name":"Richard Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40867", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2142, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40868", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2143, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40869", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2144, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40870", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2145, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La691",
+  "name":"Letter from Thomas Phelippes, Chartley, to Richard Bagot",
+  "dateCreated":"1586 July 25",
+  "description":"Unable to come in person, sends assurance of readiness to serve; hopes soon to visit when he can do so without suspicion. Hopes to see Bagot at the hunting afoot at Chartley the next day. The governor assents to Bagot's grant of hunting the miller tomorrow.",
+  "folgerCallNumber":"L.a.691",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Thomas Phelippes, Chartley","description":"creator"},
+    {"name":"Richard Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40871", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2146, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40872", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2147, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La692",
+  "name":"Letter from Thomas Phelippes, London, to Richard Bagot, deputy lieutenant",
+  "dateCreated":"1588 August 15",
+  "description":"John Giffard (Gifforde) of Chillington, a recusant and now in Phelippe's custody, is allowed freedom occasionally to go to his own house; this is partly because of the good part played by Giffard's son in that secret negotiation we had two years since with the brewer of Chartley.",
+  "folgerCallNumber":"L.a.692",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Thomas Phelippes, London","description":"creator"},
+    {"name":"Richard Bagot, deputy lieutenant","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40873", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2148, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40874", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2149, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40875", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2150, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40876", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2151, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La693",
+  "name":"Letter from Thomas Phelippes to Richard Bagot, deputy lieutenant",
+  "dateCreated":"1588 November 8",
+  "description":"Thanks for consideration of his motion touching Mr. Giffard. His not dispatching what Bagot wanted for Mr. Biddulph was due to failure to understand who committed him. The other Catholic gentlemen in these parts have acknowledge full allegiance to the queen.",
+  "folgerCallNumber":"L.a.693",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Thomas Phelippes","description":"creator"},
+    {"name":"Richard Bagot, deputy lieutenant","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40877", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2152, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40878", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2153, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40879", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2154, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40880", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2155, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La694",
+  "name":"Letter from Thomas Phelippes, London, to Richard Bagot, deputy lieutenant",
+  "dateCreated":"1589 April 27",
+  "description":"Mr. Giffard would have Bagot informed of all matters; they now intend to visit the wells in Warks. Thanks for kindness to Giffard, whose honesty and discretion deserve any possible favor.",
+  "folgerCallNumber":"L.a.694",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Thomas Phelippes, London","description":"creator"},
+    {"name":"Richard Bagot, deputy lieutenant","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40881", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2156, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40882", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2157, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40883", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2158, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "None", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2159, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La695",
+  "name":"Letter from Thomas Phelippes, London, to Richard Bagot, deputy lieutenant",
+  "dateCreated":"1589 August 16",
+  "description":"Thanks for courtesies to Mr. Giffard. If any complain of such good treatment of a recusant, it is because of the good service done to the queen by Giffard's son.",
+  "folgerCallNumber":"L.a.695",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Thomas Phelippes, London","description":"creator"},
+    {"name":"Richard Bagot, deputy lieutenant","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40885", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2160, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40886", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2161, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40887", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2162, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40888", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2163, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La696",
+  "name":"Letter from Thomas Phelippes, London, to Richard Bagot, deputy lieutenant",
+  "dateCreated":"1589/90 March 14",
+  "description":"Expects Bagot's continued courtesy towards Mr. Giffard, but there is now a general restraint placed on recusants. Phelippes soon to return to Staffordshire and will bring particular instructions.",
+  "folgerCallNumber":"L.a.696",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Thomas Phelippes, London","description":"creator"},
+    {"name":"Richard Bagot, deputy lieutenant","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40889", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2164, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40890", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2165, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La697",
+  "name":"Letter from Thomas Phelippes, London, to Richard Bagot, deputy lieutenant",
+  "dateCreated":"1590 August 1",
+  "description":"Her Majesty continues her favor towards Mr. Giffard for his son's sake. If any gentlemen of note complain it may now more frankly be said that the son Gilbert rendered service of prime importance in exposing the Babington plot and is now therefore in durance in Paris. Parma expected soon to march on Paris with 20,000 men.",
+  "folgerCallNumber":"L.a.697",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Thomas Phelippes, London","description":"creator"},
+    {"name":"Richard Bagot, deputy lieutenant","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40891", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2166, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40892", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso || leaf 2 recto", "mpso" : 2167, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40893", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2168, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La698",
+  "name":"Letter from Thomas Phelippes, London, to Richard Bagot",
+  "dateCreated":"1591/92 February 3",
+  "description":"Does not doubt Bagot's continued kindness to Giffard for his son's sake, but reminds him because Phelippes has left Giffard in the country. The son is now dead in Paris; still secret matters are to be reserved for great occasions. Does not forget that Zachary Babington denounced Phelippe's man as a seminary priest when Phelippes was proposed for the hand of Mr. Philip Okeover's daughter Jane and Babington urged her marriage to Mr. Anthony Ashley.",
+  "folgerCallNumber":"L.a.698",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Thomas Phelippes, London","description":"creator"},
+    {"name":"Richard Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40894", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2169, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40895", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2170, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40896", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2171, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40897", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2172, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La699",
+  "name":"Letter from Sir German Pole to Walter Bagot",
+  "dateCreated":"ca. 1610 June 28",
+  "description":"Thanks for a buck. Hall, who is bound to good behavior, has assaulted Leonard Mansfield, an old man.",
+  "folgerCallNumber":"L.a.699",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Sir German Pole","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40898", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto || leaf 2 verso", "mpso" : 2173, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40899", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso || leaf 2 recto", "mpso" : 2174, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La7",
+  "name":"Letter from Ralph Adderley II, Marchington, to Walter Bagot",
+  "dateCreated":"1606/7 March 4",
+  "description":"If Bagot wishes to repay the money shortly to be due, Adderley will come for it on the 10th of the month; otherwise the loan may be extended.",
+  "folgerCallNumber":"L.a.7",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Ralph Adderley II, Marchington","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38775", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 17, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38776", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 18, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La70",
+  "name":"Letter from Richard Bagot to Robert Devereux, Earl of Essex",
+  "dateCreated":"1587 November 4",
+  "description":"Has examined Thomas Parker, Warrener on Cannock Heath, and finds the matter trivial. See L.a.1033.",
+  "folgerCallNumber":"L.a.70",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Richard Bagot","description":"creator"},
+    {"name":"Robert Devereux, Earl of Essex","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38975", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 217, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38976", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 218, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La700",
+  "name":"Letter from Sir German Pole to Walter Bagot",
+  "dateCreated":"ca. 1610 July 28",
+  "description":"Alsoppe, a turbulent papist, owes him 200 and claims a lease owned by Pole. The letter is almost wholly unintelligible.",
+  "folgerCallNumber":"L.a.700",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Sir German Pole","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40900", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2175, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40901", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2176, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40902", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2177, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40903", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2178, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La701",
+  "name":"Letter from Powell to Walter Bagot",
+  "dateCreated":"ca. 1605",
+  "description":"Endorsed: Powell for his accoumptes. His parish accounts, as rendered to sufficient men, are correct, and he who challenges them does so out of malice only. Unsigned, endorsed by Bagot Powell for his accoumptes.",
+  "folgerCallNumber":"L.a.701",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Powell","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40904", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2179, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40905", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2180, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40906", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2181, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40907", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2182, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La702",
+  "name":"Letter from William Powle to Walter Bagot",
+  "dateCreated":"ca. 1615",
+  "description":"Heard that Bagot was in Uttoxeter but could not come to meet him; will be at Blithfield soon. Leaves to Bagot this business of Pokers.",
+  "folgerCallNumber":"L.a.702",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"William Powle","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40908", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2183, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40909", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2184, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40910", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2185, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40911", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2186, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La703",
+  "name":"Letter from Thomas Powntesse, London, to Richard Bagot",
+  "dateCreated":"1557 November 10",
+  "description":"Thomas Parker is willing to submit, and Powntesse hopes Bagot will be good to him, reporting to his lordship only that there was no matter worth bothering about. Swan and Russell say they bought the seven trees, but they gave them back; Osborn and Poulton asked what the trees were worth.",
+  "folgerCallNumber":"L.a.703",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Thomas Powntesse, London","description":"creator"},
+    {"name":"Richard Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40912", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2187, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40913", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2188, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40914", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2189, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40915", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2190, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La704",
+  "name":"Letter from the Privy Council, Hampton Court, to the sheriff and justices of the peace of Staffordshire",
+  "dateCreated":"1569/70 February 14",
+  "description":"A contribution is to be levied for money to repay that advanced to arm Staffordshire men for putting down the Northern rebellion. Signed by Sir Nicholas Bacon, the Earl of Leicester, the Earl of Northampton, the Earl of Bedford, Lord Clinton, Lord William Howard, Sir Francis Knollys, Sir James Croft, Sir William Cecil, Sir Ralph Sadler, and Sir Walter Mildmay.",
+  "folgerCallNumber":"L.a.704",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Hampton Court","description":"creator"},
+    {"name":"the sheriff and justices of the peace of Staffordshire","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40916", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2191, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40917", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2192, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40918", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2193, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40919", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2194, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La705",
+  "name":"Letter from the Privy Council, Hampton Court, to the sheriff and justices of the peace of Staffordshire",
+  "dateCreated":"1577/78 February 4",
+  "description":"Butchering and the eating of flesh during lent forbidden. Signed by Sir Nicholas Bacon, Lord Burghley, the Earl of Warwick, Lord Henry Hunsdon, Sir Francis Knollys, Sir James Croft, Sir Christopher Hatton, Sir Francis Walsingham, and Thomas Wilson.",
+  "folgerCallNumber":"L.a.705",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Hampton Court","description":"creator"},
+    {"name":"the sheriff and justices of the peace of Staffordshire","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40920", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2195, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40921", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2196, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40922", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2197, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40923", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2198, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La706",
+  "name":"Letter from the Privy Council, Hampton Court, to the justices of assizes in Oxfordshire",
+  "dateCreated":"1577/78 February 9",
+  "description":"Sheriffs forbidden to provide diet for judges of assizes. Signed by Lord Burghley, the Earl of Lincoln, the Earl of Sussex, the Earl of Warwick, the Earl of Leicester, Lord Henry Hunsdon, Sir Francis Knollys, Sir James Croft, Sir Christopher Hatton, and Thomas Wilson.",
+  "folgerCallNumber":"L.a.706",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Hampton Court","description":"creator"},
+    {"name":"the justices of assizes in Oxfordshire","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40924", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2199, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40925", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2200, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40926", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2201, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40927", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2202, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La707",
+  "name":"Letter from the Privy Council, Court at Horseheath (Horshedd), to the sheriff and justices of the peace of Staffordshire",
+  "dateCreated":"1578 September 5",
+  "description":"Sheriff and justices to apprehend popish priests. Signed by Lord Burghley, the Earl of Leicester, Sir Francis Knollys, Sir James Croft, Sir Christopher Hatton, and Thomas Wilson.",
+  "folgerCallNumber":"L.a.707",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Court at Horseheath (Horshedd)","description":"creator"},
+    {"name":"the sheriff and justices of the peace of Staffordshire","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40928", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2203, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40929", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2204, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40930", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2205, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40931", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2206, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La708",
+  "name":"Letter from the Privy Council, Richmond, to the sheriff of Staffordshire",
+  "dateCreated":"1578 November 21",
+  "description":"Sheriff to arrest Robert Young for appearance before the Council. Signed by Lord Burghley, the Earl of Lincoln, the Earl of Sussex, the Earl of Warwick, the Earl of Leicester, Sir Francis Knollys, Sir James Croft, Sir Christopher Hatton, and Thomas Wilson.",
+  "folgerCallNumber":"L.a.708",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Richmond","description":"creator"},
+    {"name":"the sheriff of Staffordshire","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40932", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2207, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40933", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2208, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40934", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2209, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40935", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2210, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La709",
+  "name":"Letter from the Privy Council, Nonsuch, to unidentified recipients, July 12, 1580 : copy",
+  "description":"The addressees to call before them nine gentlemen, listed (all recusants or suspects), and take bond for their speedy appearance before the Council. Also, copy of a letter to Philip Draycote, Erasmus Wolseley and seven other recusants, August 10, 1580. They are to meet the writer in Stafford on August 15, when they will be told what is required of them.",
+  "folgerCallNumber":"L.a.709",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Nonsuch","description":"creator"},
+    {"name":"unidentified recipients, July 12, 1580 : copy","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40936", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2211, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40937", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2212, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La71",
+  "name":"Letter from Richard Bagot to George Talbot, Earl of Shrewsbury (Lord Lieutenant of Staffordshire)",
+  "dateCreated":"1587/8? February",
+  "description":"Justifies the earlier report on recusants made by the sheriff and deputy lieutenants and denies the earl's charge of slackness of favor. Reply to L.a.802.",
+  "folgerCallNumber":"L.a.71",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Richard Bagot","description":"creator"},
+    {"name":"George Talbot, Earl of Shrewsbury (Lord Lieutenant of Staffordshire)","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38977", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 219, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38978", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 220, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La710 (1)",
+  "name":"Letter from the Privy Council, Greenwich, to the sheriff, the custos rotulorum, and the justices of the peace of Staffordshire",
+  "dateCreated":"1581 August 31",
+  "description":"Sheriff and justices to free recusant prisoners conditionally. Signatures added by an anamuensis. With the letter is a form of the conditions to be applied to recognizances.",
+  "folgerCallNumber":"L.a.710 (1)",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Greenwich","description":"creator"},
+    {"name":"the sheriff, the custos rotulorum, and the justices of the peace of Staffordshire","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40938", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2213, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40939", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2214, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La711",
+  "name":"Letter from the Privy Council, Windsor, to the sheriff and justices of the peace of Staffordshire, November 3, 1582 : copy",
+  "description":"The extortions of John Price, a sergeant at arms, are to be inquired into.",
+  "folgerCallNumber":"L.a.711",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Windsor","description":"creator"},
+    {"name":"the sheriff and justices of the peace of Staffordshire, November 3, 1582 : copy","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40946", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2221, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40947", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2222, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La712",
+  "name":"Letter from the Privy Council, The Court, to unidentified recipients, August 22, 1583 : copy",
+  "description":"Musters to be held at Stafford; gentlemen to be rated for horses.",
+  "folgerCallNumber":"L.a.712",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, The Court","description":"creator"},
+    {"name":"unidentified recipients, August 22, 1583 : copy","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40948", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2223, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40949", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2224, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La713",
+  "name":"Letter from the Privy Council, Elmenwych, to Sir Walter Aston, Richard Bagot and others, April 27, 1585 : copy",
+  "description":"Arms of recusants to be seized. A list of 15 recusants added.",
+  "folgerCallNumber":"L.a.713",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Elmenwych","description":"creator"},
+    {"name":"Sir Walter Aston, Richard Bagot and others, April 27, 1585 : copy","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40950", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2225, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40951", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2226, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40952", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2227, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40953", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2228, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La714",
+  "name":"Letter from the Privy Council, Greenwich, to the sheriffs and justices of the peace in Staffordshire and Derbyshire, July 15, 1585 : copy",
+  "description":"The Queen has appointed the Earl of Shrewsbury lord lieutenant of the two counties, and the council requires obedience to his orders. Also, copy of the letters of deputation of the Earl of Shrewsbury, Wingfield, July 28, 1585, appointing Sir Walter Aston, Thomas Trentham, and Richard Bagot deputy lieutenants of Staffordshire.",
+  "folgerCallNumber":"L.a.714",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Greenwich","description":"creator"},
+    {"name":"the sheriffs and justices of the peace in Staffordshire and Derbyshire, July 15, 1585 : copy","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40954", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2229, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40955", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2230, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La715",
+  "name":"Letter from the Privy Council, Nonsuch, to the Earl of Shrewsbury?, August 31, 1585 : copy",
+  "description":"Order to be taken to prevent the secret shipping of grain out of the realm. Also, copy of another letter to the Earl of Shrewsbury?, Nonsuch, August 31, 1585. Powder and match to be collected, at 10 pence per pound, for storage in maritime and border towns.",
+  "folgerCallNumber":"L.a.715",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Nonsuch","description":"creator"},
+    {"name":"the Earl of Shrewsbury?, August 31, 1585 : copy","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40956", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2231, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40957", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2232, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40958", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2233, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40959", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2234, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La716",
+  "name":"Letter from the Privy Council, Greenwich, to the Earl of Shrewsbury, lord lieutenant, January 29, 1585/86 : copy",
+  "description":"He is ordered to report on the condition of the counties.",
+  "folgerCallNumber":"L.a.716",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Greenwich","description":"creator"},
+    {"name":"the Earl of Shrewsbury, lord lieutenant, January 29, 1585/86 : copy","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40960", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2235, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40961", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2236, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La717 (1)",
+  "name":"Letter from the Privy Council, Richmond, to the Earl of Shrewsbury, lord lieutenant, August 2, 1586 : copy",
+  "description":"To take order for the training, arming, and equipping of men for the defense of the realm. Also, copy of a Letter from the Earl of Shrewsbury to his deputy lieutenants, Windsor, September 5, 1586, to carry out the orders of the above letter, enclosed in this.",
+  "folgerCallNumber":"L.a.717 (1)",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Richmond","description":"creator"},
+    {"name":"the Earl of Shrewsbury, lord lieutenant, August 2, 1586 : copy","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40962", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2237, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40963", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2238, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La718",
+  "name":"Letter from the Privy Council, The Court, to the Earl of Shrewsbury, lord lieutenant, February 26, 1586/87 : copy",
+  "description":"One hundred men from Derbyshire and 100 from Staffordshire to be put in readiness to march for Ireland with three days' notice.",
+  "folgerCallNumber":"L.a.718",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, The Court","description":"creator"},
+    {"name":"the Earl of Shrewsbury, lord lieutenant, February 26, 1586/87 : copy","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40968", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2243, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40969", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2244, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La719",
+  "name":"Letter from the Privy Council, Richmond, to the Earl of Shrewsbury, lord lieutenant, October 9, 1587 : copy",
+  "description":"Troops to be mustered against Spanish attack.",
+  "folgerCallNumber":"L.a.719",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Richmond","description":"creator"},
+    {"name":"the Earl of Shrewsbury, lord lieutenant, October 9, 1587 : copy","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40970", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2245, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40971", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2246, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La72",
+  "name":"Letter from Richard Bagot to George Talbot, Earl of Shrewbury",
+  "dateCreated":"1587/8? February",
+  "description":"Denies partiality in prosecuting recusants and states the reasons for not prosecuting John and Philip Draycote, Sampson Erdeswicke, Walter Wolseley, and Brian Fowler. Perhaps another reply to L.a.802.",
+  "folgerCallNumber":"L.a.72",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Richard Bagot","description":"creator"},
+    {"name":"George Talbot, Earl of Shrewbury","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38979", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 221, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38980", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 222, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38981", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 223, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38982", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 224, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La720",
+  "name":"Letter from the Privy Council, Whitehall, to the Earl of Shrewsbury, lord lieutenant, May 14, 1589 : copy",
+  "description":"Troops to be brought to readiness. Copy, with the Earl of Shrewsbury's signature.",
+  "folgerCallNumber":"L.a.720",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Whitehall","description":"creator"},
+    {"name":"the Earl of Shrewsbury, lord lieutenant, May 14, 1589 : copy","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40972", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2247, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40973", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2248, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40974", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2249, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40975", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2250, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La721",
+  "name":"Letter from the Privy Council, Richmond, to the Earl of Shrewsbury, lord lieutenant, September 27, 1589 : copy ",
+  "description":"Troops to be mustered.",
+  "folgerCallNumber":"L.a.721",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Richmond","description":"creator"},
+    {"name":"the Earl of Shrewsbury, lord lieutenant, September 27, 1589 : copy","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40976", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2251, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40977", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2252, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La722",
+  "name":"Letter from the Privy Council, Richmond, to the Earl of Shrewsbury, lord lieutenant, January 2, 1589/90 : copy",
+  "description":"Troops to be made ready for an expected attack by the Spanish.",
+  "folgerCallNumber":"L.a.722",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Richmond","description":"creator"},
+    {"name":"the Earl of Shrewsbury, lord lieutenant, January 2, 1589/90 : copy","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40978", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2253, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40979", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2254, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40980", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2255, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40981", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2256, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La723",
+  "name":"Letter from the Privy Council, The Court, to Richard Bagot",
+  "dateCreated":"1589/90 February 12",
+  "description":"Persons who lent money on a privy seal to be notified that they can obtain repayment at Westminster. Signed by Sir Christopher Hatton, Lord Burghley, Lord Henry Hunsdon, Lord Cobham, Sir James Croft, Sir Thomas Heneage, Sir John Perrott, Sir John Wolley, and Sir John Fortescue.",
+  "folgerCallNumber":"L.a.723",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, The Court","description":"creator"},
+    {"name":"Richard Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40982", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2257, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40983", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2258, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40984", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2259, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40985", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2260, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La724",
+  "name":"Letter from the Privy Council, Greenwich, to the deputy lieutenants of Staffordshire",
+  "dateCreated":"1589/90 March 9",
+  "description":"Information to be sent concerning recusants. Signed by Archbishop Whitgift, Sir Christopher Hatton, Lord Burghley, Lord Henry Hunsdon, Lord Buckhurst, Sir James Croft, Sir Thomas Heneage, Sir Francis Walsingham, Sir John Wolley, and Sir John Fortescue.",
+  "folgerCallNumber":"L.a.724",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Greenwich","description":"creator"},
+    {"name":"the deputy lieutenants of Staffordshire","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40986", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2261, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40987", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso || leaf 2 recto", "mpso" : 2262, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40988", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2263, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La725",
+  "name":"Letter from the Privy Council, Greenwich, to the lieutenants or deputy lieutenants of Staffordshire",
+  "dateCreated":"1590 May 28",
+  "description":"Broggers and engrossers of wool to be bound to desist. Signed by Archbishop Whitgift, Sir Christopher Hatton, Lord Burghley, Lord Charles Howard, Lord Henry Hunsdon, Lord Buckhurst, Sir John Wolley, and Sir John Fortescue.",
+  "folgerCallNumber":"L.a.725",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Greenwich","description":"creator"},
+    {"name":"the lieutenants or deputy lieutenants of Staffordshire","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40989", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2264, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40990", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso || leaf 2 recto", "mpso" : 2265, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40991", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2266, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La726",
+  "name":"Letter from the Privy Council, the Court at Oking, to the lords lieutenants of counties, August 31, 1590 : copy",
+  "description":"In view of a probable attack by the Spanairds and in view of reports as to the poor state of preparation in many parts, her Majesty has ordered that precepts shall be sent out and full musters taken in the following spring.",
+  "folgerCallNumber":"L.a.726",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, the Court at Oking","description":"creator"},
+    {"name":"the lords lieutenants of counties, August 31, 1590 : copy","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40992", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2267, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40993", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2268, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40994", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2269, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40995", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2270, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La727",
+  "name":"Letter from the Privy Council, Richmond, to Richard Bagot",
+  "dateCreated":"1590/91 January 24",
+  "description":"John Draycote is excused from appearing before them until his health is restored. Signed by Sir Christopher Hatton, Lord Burghley, Lord Charles Howard, Lord Cobham, Lord Buckhurst, and Sir John Wolley.",
+  "folgerCallNumber":"L.a.727",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Richmond","description":"creator"},
+    {"name":"Richard Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40996", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2271, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40997", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso || leaf 2 recto", "mpso" : 2272, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40998", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2273, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La728",
+  "name":"Letter from the Privy Council, Lambeth, to unknown recipient, June 14, 1592 : copy",
+  "description":"Jesuits and seminarists to be apprehended.",
+  "folgerCallNumber":"L.a.728",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Lambeth","description":"creator"},
+    {"name":"unknown recipient, June 14, 1592 : copy","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "40999", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2274, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41000", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2275, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41001", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2276, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41002", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2277, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La729",
+  "name":"Letter from the Privy Council, Greenwich, to William Overton, the bishop of Coventry and Lichfield, and others",
+  "dateCreated":"1592 July 23",
+  "description":"Recusants to be disarmed. Signed by Sir John Puckering, Lord Burghley, Lord Charles Howard, Lord Henry Hunsdon, Lord Cobham, Lord Buckhurst, Sir Robert Cecil, Sir John Wolley, and Sir John Forstescue.",
+  "folgerCallNumber":"L.a.729",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Greenwich","description":"creator"},
+    {"name":"William Overton, the bishop of Coventry and Lichfield, and others","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41003", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2278, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41004", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2279, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41005", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2280, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41006", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2281, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La73",
+  "name":"Letter from Richard Bagot to Sir Walter Aston",
+  "dateCreated":"1587/8 February 16",
+  "description":"Encloses his answer to lord lieutenant Shrewsbury's letter and invites additions. Cousin Biddulph's son not at home. Advises sending Mrs. Fowler with her husband.",
+  "folgerCallNumber":"L.a.73",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Richard Bagot","description":"creator"},
+    {"name":"Sir Walter Aston","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38983", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 225, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38984", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 226, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La730",
+  "name":"Letter from the Privy Council, Bisham, to the commissioners for recusants in Staffordshire, August 13, 1592 : copy",
+  "description":"Recusants of ability are to be committed.",
+  "folgerCallNumber":"L.a.730",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Bisham","description":"creator"},
+    {"name":"the commissioners for recusants in Staffordshire, August 13, 1592 : copy","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41007", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2282, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41008", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2283, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41009", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2284, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41010", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2285, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La731",
+  "name":"Letter from the Privy Council, Whitehall, to the commissioners for recusants in Staffordshire, December 19, 1592 : copy",
+  "description":"Inquiry to be made as to recusants. The commission renewed.",
+  "folgerCallNumber":"L.a.731",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Whitehall","description":"creator"},
+    {"name":"the commissioners for recusants in Staffordshire, December 19, 1592 : copy","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41011", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2286, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41012", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2287, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41013", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2288, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41014", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2289, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La732",
+  "name":"Letter from the Privy Council, Hampton Court, to the sheriff and justices of the peace in Staffordshire",
+  "dateCreated":"1592/93 January 7",
+  "description":"The addressees are to repair to London to arrange composition for provision for the queen's household. Signed by Sir John Puckering, Lord Burghley, Lord Charles Howard, Lord Henry Hunsdon, Lord Buckhurst, and Sir John Fortescue.",
+  "folgerCallNumber":"L.a.732",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Hampton Court","description":"creator"},
+    {"name":"the sheriff and justices of the peace in Staffordshire","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41015", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2290, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41016", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2291, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41017", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2292, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41018", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2293, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La733",
+  "name":"Letter from the Privy Council, Hampton Court, to the commissioners for recusants in Staffordshire",
+  "dateCreated":"1592/93 January 8",
+  "description":"Certificate to be made of the arms seized and the names of the former owners. Signed by Archbishop Whitgift, Sir John Puckering, Lord Charles Howard, Lord Buckhurst, Sir Robert Cecil, Sir John Wolley, and Sir John Fortescue.",
+  "folgerCallNumber":"L.a.733",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Hampton Court","description":"creator"},
+    {"name":"the commissioners for recusants in Staffordshire","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41019", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2294, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41020", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2295, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41021", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2296, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41022", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2297, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La734",
+  "name":"Letter from the Privy Council, Hampton Court, to unidentified recipient, December 31, 1593 : copy",
+  "description":"Inquiry to be made as to what parents have sons in foreign parts for schooling.",
+  "folgerCallNumber":"L.a.734",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Hampton Court","description":"creator"},
+    {"name":"unidentified recipient, December 31, 1593 : copy","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41023", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2298, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41024", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2299, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La735",
+  "name":"Letter from the Privy Council, Hampton Court, to the compounders for provisions for her Majesty's household and to the justices of the peace of Staffordshire",
+  "dateCreated":"1593/94 February 10",
+  "description":"Certain parts of Staffordshire to be exempted from further contribution. Signatures, except for that of the Earl of Essex, added by an amanuensis.",
+  "folgerCallNumber":"L.a.735",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Hampton Court","description":"creator"},
+    {"name":"the compounders for provisions for her Majesty's household and to the justices of the peace of Staffordshire","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41025", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2300, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41026", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2301, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41027", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2302, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41028", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2303, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La736",
+  "name":"Letter from the Privy Council, Whitehall to the sheriff, Sir Christopher Blount, Richard Bagot, and others, August 20, 1595 : copy ",
+  "description":"Directions for musters and training.",
+  "folgerCallNumber":"L.a.736",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Whitehall","description":"creator"},
+    {"name":"the sheriff, Sir Christopher Blount, Richard Bagot, and others, August 20, 1595 : copy","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41029", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2304, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41030", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2305, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41031", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2306, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41032", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2307, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La737",
+  "name":"Letter from the Privy Council, Richmond, to the sheriff, Sir Christopher Blount, Richard Bagot, and others, November 9, 1595 : copy",
+  "description":"Beacon watches to be suspended. Men to be provided to use the armor owned by clergymen.",
+  "folgerCallNumber":"L.a.737",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Richmond","description":"creator"},
+    {"name":"the sheriff, Sir Christopher Blount, Richard Bagot, and others, November 9, 1595 : copy","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41033", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2308, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41034", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso || leaf 2 recto", "mpso" : 2309, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41035", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2310, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La738",
+  "name":"Letter from the Privy Council, Richmond, to unknown recipient, February 8, 1595/96 : copy",
+  "description":"Compositions for provision fo rher Majesty's household to be pressed.",
+  "folgerCallNumber":"L.a.738",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Richmond","description":"creator"},
+    {"name":"unknown recipient, February 8, 1595/96 : copy","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41036", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2311, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41037", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2312, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La739",
+  "name":"Letter from the Privy Council, Richmond, to the commissioners for the musters in Staffordshire, March 28, 1596 : copy",
+  "description":"Essex and the lord admiral to raise troops; the authorities in Staffordshire to cooperate.",
+  "folgerCallNumber":"L.a.739",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Richmond","description":"creator"},
+    {"name":"the commissioners for the musters in Staffordshire, March 28, 1596 : copy","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41038", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2313, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41039", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2314, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La74",
+  "name":"Letter from Richard Bagot, Tixall, to George Talbot, Earl of Shrewsbury",
+  "dateCreated":"1587/8 February 27",
+  "description":"Denies the wresting of Shrewsbury's words and slackness in prosecuting recusants. A reply to Shrewsbury's letter, see L.a.803, from Bagot and Sir Walter Aston.",
+  "folgerCallNumber":"L.a.74",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Richard Bagot, Tixall","description":"creator"},
+    {"name":"George Talbot, Earl of Shrewsbury","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38985", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 227, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38986", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 228, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La740",
+  "name":"Letter from the Privy Council, Richmond, to the commissioners for the musters in Staffordshire",
+  "dateCreated":"1599/1600 January 9",
+  "description":"Horses to be levied in Staffordshire. Signed by Archbishop Whitgift, Sir Thomas Egerton, the Earl of Nottingham, Lord George Hunsdon, Lord Roger North, Sir Willian Knollys, Sir Robert Cecil, Sir John Fortescue, and Sir John Popham. For reply (?) see L.a.1011.",
+  "folgerCallNumber":"L.a.740",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Richmond","description":"creator"},
+    {"name":"the commissioners for the musters in Staffordshire","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41040", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2315, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41041", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2316, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41042", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2317, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41043", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2318, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La741",
+  "name":"Letter from the Privy Council, Richmond, to unknown recipient, January 30, 1599/1600 : copy",
+  "description":"Horse money to be sent to the mayor of Chester. Accompanying this is a note signed by Sir Edward Littleton, addressed to Edward Wattkyes.",
+  "folgerCallNumber":"L.a.741",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Richmond","description":"creator"},
+    {"name":"unknown recipient, January 30, 1599/1600 : copy","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41044", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2319, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41045", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2320, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41046", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2321, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41047", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2322, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La742",
+  "name":"Letter from the Privy Council, Richmond, to the commissioners for the musters in Staffordshire",
+  "dateCreated":"1600 March 30",
+  "description":"Deficiences in the men sent to Chester to be made good. Signed by Archbishop Whitgift, Sir Thomas Egerton, the Earl of Nottingham, Lord Roger North, Sir William Knollys, and Sir Robert Cecil.",
+  "folgerCallNumber":"L.a.742",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Richmond","description":"creator"},
+    {"name":"the commissioners for the musters in Staffordshire","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41048", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2323, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41049", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2324, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41050", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2325, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41051", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2326, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La743",
+  "name":"Letter from the Privy Council, Greenwich, to three of the commissioners for the musters in Staffordshire",
+  "dateCreated":"1600 May 25",
+  "description":"Walter Bagot (sheriff) is commended for forwardness in raising money; five defaulters discussed. Signed by Archbishop Whitgift, Sir Thomas Egerton, Lord Buckhurst, the Earl of Nottingham, Sir William Knollys, Sir Robert Cecil, and Sir John Fortescue.",
+  "folgerCallNumber":"L.a.743",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Greenwich","description":"creator"},
+    {"name":"three of the commissioners for the musters in Staffordshire","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41052", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2327, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41053", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2328, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41054", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2329, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41055", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2330, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La744",
+  "name":"Letter from the Privy Council, Greenwich, to the sheriffs and justices of the peace in Staffordshire",
+  "dateCreated":"1600 June 1",
+  "description":"In this time of dearth of corn badgers and regrators are to be suppressed. Signed by Sir Thomas Egerton, Lord Buckhurst, the Earl of Nottingham, Sir William Knollys, Sir Robert Cecil, Sir John Fortescue, and Sir John Popham.",
+  "folgerCallNumber":"L.a.744",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Greenwich","description":"creator"},
+    {"name":"the sheriffs and justices of the peace in Staffordshire","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41056", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2331, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41057", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2332, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41058", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2333, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41059", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2334, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La745",
+  "name":"Letter from the Privy Council, Richmond, to the sheriff, commissioners for the musters, and justices of peace in Staffordshire, March 16, 1602/03 : copy ",
+  "description":"Rumors as to the queen's health to be suppressed, assemblies to be prevented.",
+  "folgerCallNumber":"L.a.745",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Richmond","description":"creator"},
+    {"name":"the sheriff, commissioners for the musters, and justices of peace in Staffordshire, March 16, 1602/03 : copy","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41060", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2335, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41061", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2336, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41062", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2337, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41063", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2338, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La746",
+  "name":"Letter from the Privy Council, The Court, to the sheriff and the justices of the peace in Staffordshire",
+  "dateCreated":"1603/04 February 21",
+  "description":"Licenses to sell wine are to be enforced; all unlicensed sellers to be restrained. Signed by Archbishop Whitgift, Lord Thomas Ellesmere, Lord Buckhurst, the Earl of Suffolk, the Earl of Northumberland, the Earl of Worcester, Thomas (?) Howard, Lord Cecil, Sir William Knollys, and Lord Edward Wotton.",
+  "folgerCallNumber":"L.a.746",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, The Court","description":"creator"},
+    {"name":"the sheriff and the justices of the peace in Staffordshire","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41064", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2339, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41065", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2340, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41066", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2341, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41067", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2342, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La747",
+  "name":"Letter from the Privy Council, Greenwich, to the justices of the peace of Staffordshire, June 4, 1608 : copy",
+  "description":"Because of certain abuses and slack enforcement in the past, new articles touching alehouses have been printed, and a copy is sent herewith. Copy in Walter Bagot's hand, together with his transcript, with some changes, of the Articles of Direction Touching Alehouses, 1608 (STC 9215).",
+  "folgerCallNumber":"L.a.747",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Greenwich","description":"creator"},
+    {"name":"the justices of the peace of Staffordshire, June 4, 1608 : copy","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41068", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2343, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41069", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2344, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41070", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2345, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41071", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2346, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La748",
+  "name":"Letter from the Privy Council, Whitehall, to Thomas Knight, messenger of the king's countinghouse, July 9, 1610 : copy",
+  "description":"A warrant authorizing Knight to bring in all who refuse past and current assessments for provision for the king's household. Copy.",
+  "folgerCallNumber":"L.a.748",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Whitehall","description":"creator"},
+    {"name":"Thomas Knight, messenger of the king's countinghouse, July 9, 1610 : copy","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41072", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2347, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41073", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2348, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41074", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2349, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41075", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2350, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La749",
+  "name":"Letter from the Privy Council, Whitehall, to the sheriff, the deputy lieutenants, and two justices of the peace in Staffordshire, February 28, 1612/13 : copy ",
+  "description":"Ill affected in religion fully defined. Signed by Archbishop Abbot, Lord Ellesmere, the Earl of Suffolk, the Earl of Exeter, the Earl of Northampton, the Earl of Worcester, Lord Edward Wotton, Sir Julius Caesar, Sir Thomas Parry, and George Calvert.",
+  "folgerCallNumber":"L.a.749",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Whitehall","description":"creator"},
+    {"name":"the sheriff, the deputy lieutenants, and two justices of the peace in Staffordshire, February 28, 1612/13 : copy","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41076", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2351, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41077", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2352, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41078", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2353, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41079", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2354, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La75",
+  "name":"Letter from Richard Bagot to Lord Burghley",
+  "dateCreated":"1588 December 29",
+  "description":"Encloses an inventory of equipment at the Cannock ironworks; describes the whole operation as unprofitable because of the decay of dams, etc., and the probable exhaustion of iron ore in ten years. Signed also by Sir E. Littleton and Thomas Powntesse. Doubtless a reply to L.a.320.",
+  "folgerCallNumber":"L.a.75",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Richard Bagot","description":"creator"},
+    {"name":"Lord Burghley","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38987", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 229, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38988", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 230, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38989", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 231, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38990", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 232, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La750",
+  "name":"Letter from the Privy Council, Whitehall to unidentified recipient, July 6, 1613 : copy",
+  "description":"One hundred men to be mustered for the Irish service.",
+  "folgerCallNumber":"L.a.750",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Whitehall","description":"creator"},
+    {"name":"unidentified recipient, July 6, 1613 : copy","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41080", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2355, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41081", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso || leaf 2 recto", "mpso" : 2356, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41082", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2357, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La751",
+  "name":"Letter from the Privy Council, Whitehall, to the deputy lieutenants of Staffordshire, February 22, 1614/15 : copy",
+  "description":"It is hoped that each of them will set a good example in the county by adventuring in the lottery to further the English colony in Virginia.",
+  "folgerCallNumber":"L.a.751",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Whitehall","description":"creator"},
+    {"name":"the deputy lieutenants of Staffordshire, February 22, 1614/15 : copy","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41083", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2358, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41084", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2359, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41085", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2360, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41086", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2361, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La752",
+  "name":"Letter from the Privy Council, Whitehall to unidentified recipient, July 31, 1616 : copy",
+  "description":"Twenty-five sufficient men to be levied in Staffordshire for Ireland.",
+  "folgerCallNumber":"L.a.752",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Whitehall","description":"creator"},
+    {"name":"unidentified recipient, July 31, 1616 : copy","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41087", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2362, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41088", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso || leaf 2 recto", "mpso" : 2363, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41089", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2364, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La753",
+  "name":"Letter from the Privy Council, Whitehall, to the deputy lieutenants and justices of the peace in Staffordshire",
+  "dateCreated":"ca. 1618 March 31",
+  "description":"Castilian Mason recommended as an undertaker. Signed by the Duke of Lennox, Sir Thomas Edmondes, Sir Henry Carey, Sir Marmaduke Darell, Sir Robert Vernon, and Sir Anthony Weldon.",
+  "folgerCallNumber":"L.a.753",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Whitehall","description":"creator"},
+    {"name":"the deputy lieutenants and justices of the peace in Staffordshire","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41090", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2365, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41091", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2366, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41092", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2367, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41093", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2368, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La754",
+  "name":"Letter from the Privy Council, Whitehall, to the sheriff and justices of the peace of Staffordshire, January 26, 1619/20 : copy",
+  "description":"A magazine to be set up for the storing of surplus corn.",
+  "folgerCallNumber":"L.a.754",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Whitehall","description":"creator"},
+    {"name":"the sheriff and justices of the peace of Staffordshire, January 26, 1619/20 : copy","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41094", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2369, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41095", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2370, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41096", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2371, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41097", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2372, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La755",
+  "name":"Letter from the Privy Council, Whitehall, to Robert Devereux, Earl of Essex, lord lieutenant of Staffordshire, February 28, 1620/21 : copy",
+  "description":"A general muster to be held. The accompanying letter is probably L.a.1013. Also, copy of the letter sent to the head constables of Totmonslow Hundred signed by Sir Simon Weston and Walter Bagot, Lichfield, March 26, 1621.",
+  "folgerCallNumber":"L.a.755",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Whitehall","description":"creator"},
+    {"name":"Robert Devereux, Earl of Essex, lord lieutenant of Staffordshire, February 28, 1620/21 : copy","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41098", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2373, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41099", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2374, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41100", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2375, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41101", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2376, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La756",
+  "name":"Letter from the Privy Council to unidentified recipient, July 24, 1621 : copy",
+  "description":"A whole subsidy to be collected; regulations for the collection set forth.",
+  "folgerCallNumber":"L.a.756",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council","description":"creator"},
+    {"name":"unidentified recipient, July 24, 1621 : copy","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41102", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2377, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41103", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2378, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41104", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2379, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41105", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2380, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La757",
+  "name":"Letter from the Privy Council, Whitehall, to the Earl of Essex, lord lieutenant of Staffordshire, March 31, 1622 : copy",
+  "description":"A benevolence is to be raised. Also, copy of a Letter from Robert Devereux, Earl of Essex, to Lord Cromwell or Sir Simon Weston or Walter Bagot, asking them to attend to the wishes of the Council, Tottenham, April 19, 1622.",
+  "folgerCallNumber":"L.a.757",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"the Privy Council, Whitehall","description":"creator"},
+    {"name":"the Earl of Essex, lord lieutenant of Staffordshire, March 31, 1622 : copy","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41106", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2381, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41107", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2382, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41108", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2383, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41109", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2384, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La758",
+  "name":"Letter from Sir Walter Raleigh to Lady Elizabeth (Throckmorton) Raleigh, his wife",
+  "dateCreated":"1603 December",
+  "description":"Printed with some differences in E. Edwards' Life of Sir Walter Ralegh, II, 284. Copy.",
+  "folgerCallNumber":"L.a.758",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Sir Walter Raleigh","description":"creator"},
+    {"name":"Lady Elizabeth (Throckmorton) Raleigh, his wife","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41110", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2385, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41111", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2386, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41112", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2387, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41113", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2388, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La759",
+  "name":"Letter from John Rathbone to Walter Bagot?",
+  "dateCreated":"1597 April 23",
+  "description":"Mr. Henry Stanford has offered his assistance. Bagot's help and advice are desired.",
+  "folgerCallNumber":"L.a.759",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"John Rathbone","description":"creator"},
+    {"name":"Walter Bagot?","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41114", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2389, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41115", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2390, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La76",
+  "name":"Letter from Richard Bagot to Walter Bagot",
+  "dateCreated":"1589 June 7",
+  "description":"Asks his son to view certain houses and barns and report on their condition. Sir Richard died yesterday. Top part missing.",
+  "folgerCallNumber":"L.a.76",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Richard Bagot","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38991", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 233, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "38992", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 234, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La760",
+  "name":"Letter from John Reade to Walter Bagot",
+  "dateCreated":"1622 August 31",
+  "description":"Asks for a buck, sends 10 shillings for the keeper's fee.",
+  "folgerCallNumber":"L.a.760",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"John Reade","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41116", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2391, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41117", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2392, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41118", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2393, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41119", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2394, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La761",
+  "name":"Letter from John Reale to Walter Bagot",
+  "dateCreated":"1602 December 1",
+  "description":"Sends a special dedimus potestatem, as required, also an engrossment of the fine.",
+  "folgerCallNumber":"L.a.761",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"John Reale","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41120", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2395, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41121", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso || leaf 2 recto", "mpso" : 2396, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41122", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2397, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La762",
+  "name":"Letter from John Richards to Walter Bagot, sheriff",
+  "dateCreated":"1603 December 13",
+  "description":"Asks that John Hewes may have the bailiwick of Seisdon Hundred. Asks also that his own son may be undersheriff.",
+  "folgerCallNumber":"L.a.762",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"John Richards","description":"creator"},
+    {"name":"Walter Bagot, sheriff","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41123", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2398, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41124", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso || leaf 2 recto", "mpso" : 2399, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41125", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2400, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La763",
+  "name":"Letter from Oliver Richardson, Walton, to Walter Bagot, sheriff",
+  "dateCreated":"1604 May 28",
+  "description":"The portions of two maiden orphans not named, now due to them, have been for seven years in William Trew's hands. They want to go to London to enter into service. If Trew cannot pay now, they want his specialty to produce in the event of his death.",
+  "folgerCallNumber":"L.a.763",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"Oliver Richardson, Walton","description":"creator"},
+    {"name":"Walter Bagot, sheriff","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41126", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2401, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41127", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso || leaf 2 recto", "mpso" : 2402, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41128", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2403, "description" : "digital image" }
+  ]
+}
+,
+{
+  "RemoteUniqueID":"http://findingaids.folger.edu/dfobagot.xml#La764",
+  "name":"Letter from William Robinson, Avecott, to Richard Bagot, sheriff",
+  "dateCreated":"1578",
+  "description":"Desires that Bagot while showing indifferency in judgment, will still qualify justice with favor in the matter of his claim to Drayton Bassett. See ",
+  "folgerCallNumber":"L.a.764",
+  "format":"text",
+  "folgerGenre":"letters",
+  "agent":
+  [
+    {"name":"William Robinson, Avecott","description":"creator"},
+    {"name":"Richard Bagot, sheriff","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41129", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 recto", "mpso" : 2404, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41130", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 1 verso", "mpso" : 2405, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41131", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 recto", "mpso" : 2406, "description" : "digital image" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "41132", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "leaf 2 verso", "mpso" : 2407, "description" : "digital image" }
+  ]
+}
+]

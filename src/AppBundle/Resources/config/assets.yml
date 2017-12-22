@@ -1,0 +1,10 @@
+assetic:
+    assets:
+        app_css:
+            inputs:
+                - 'bundles/app/css/vendor/jquery-linedtextarea.css'
+                - 'bundles/app/css/app.min.css'
+        app_javascript:
+            inputs:
+                - '@AppBundle/Resources/public/js/vendor/jquery-linedtextarea.js'
+                - '@AppBundle/Resources/public/js/app.js'

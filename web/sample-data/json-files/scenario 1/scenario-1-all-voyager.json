@@ -1,0 +1,269 @@
+[{
+  "isBasedOn": "http://hamnet.folger.edu/cgi-bin/Pwebrecon.cgi?BBID=348823#499513",
+  "name":  "Playbills from the Theatre Royal, Drury Lane, London, 1692-1899." ,
+  "RemoteUniqueID" : "http://hamnet.folger.edu/cgi-bin/Pwebrecon.cgi?BBID=348823#499513",
+  "datePublished":
+    {"startDate": 1703, "endDate": 1899},
+  "dateCreated": "[between 1703 and 1899?]",
+  "locationCreated" : 
+  {
+    "@type": "Place",
+    "addressLocality": "London.",
+    "addressCountry": "England"
+  },
+  "description": "Collection of playbills from the Theatre Royal, Drury Lane (London), for various seasons between Spring 1703 and 1898-1899. One playbill is a 19th(?) century facsimile of a 1692 playbill. Title devised by cataloger. This record contains unverified data from catalog cards and may contain incorrect or incomplete text. Please consult Curator for assistance. cs501 Portions of BILL Box G2 D84 also available as a digital reproduction.",
+  "disambiguatingDescription" : "Some playbills are undated. Playbill dated November 9, 1692 is a facsimile. Some bills are tracings. Some bills are known forgeries. Some items previously owned by Angela Burdett-Coutts. Some items previously owned by Percy Fitzgerald. Some items previously owned by the Birmingham Public Library.",
+  "folgerCallNumber" : "BILL Box G2 D84",
+  "format" : "text",
+  "Agent":
+  [
+    { "name": "Burdett-Coutts, Angela Georgina,", "description" : "former owner", "uri" : null},
+    { "name": "Fitzgerald, Percy,", "description" : "former owner", "uri" : null},
+    { "name": "Birmingham Public Libraries,", "description" : "former owner", "uri" : null}
+  ],
+  "inLanguage": "eng",
+  "extent": "approximately 10,514 items +",
+  "about":
+  [
+    {
+      "uri":"",
+      "description":"Theatre Royal, Drury Lane (London, England)"
+    },
+    {
+      "uri":"",
+      "description":"Theaters --England --London."
+    }
+  ],
+  "genre" : 
+  [
+    {
+      "search": "Playbills.", 
+      "terms": [],
+      "uri": ""
+    },
+    {
+      "search": "Clippings (information artifacts)", 
+      "terms": [],
+      "uri": ""
+    }
+  ],
+  "folgerRelatedItems":
+  [
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "119642", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "", "mpso" : 1, "description" : "Playbill for MOV on 5 March 1814, Drury Lane" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "3348", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "", "mpso" : 2, "description" : "London, Drury Lane. The Orphan of China by Arthur Murray. Playbill, 1758-1759" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "52468", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "", "mpso" : 3, "description" : "Merchant of Venice, Drury Lane Playbill" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "56122", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "", "mpso" : 4, "description" : "Playbill for Garrick's Romeo and Juliet" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "5831", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "", "mpso" : 5, "description" : "[Playbill] Lethe" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "6223", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "", "mpso" : 6, "description" : "[Playbill] The Lying Valet" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "6224", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "", "mpso" : 7, "description" : "Playbill. Every Man in his Humour" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "6295", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "", "mpso" : 8, "description" : "Playbill: Clandestine Marriage [and] Much ado about nothing" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "6354", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "", "mpso" : 9, "description" : "[Playbill] The Wonder!" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "6496", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "", "mpso" : 10, "description" : "Drury Lane playbill: Every Man in his Humour and The Double Disappointment" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "6497", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "", "mpso" : 11, "description" : "Drury Lane Playbill: Tempest and Harlequin Ranger" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "6498", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "", "mpso" : 12, "description" : "Playbill: Romeo and Juliet and the Musical Lady" }
+  ]
+},
+{
+  "isBasedOn": "http://hamnet.folger.edu/cgi-bin/Pwebrecon.cgi?BBID=254670#334436",
+  "name":  "Miss Ellen Terry as \"Juliet\" [in Shakespeare’s Romeo and Juliet] [graphic] / Window & Grove." ,
+  "RemoteUniqueID" : ".gm;b;m",
+  "datePublished": 
+    {"startDate":1882},
+  "dateCreated": "[1882?]",
+  "locationCreated" : 
+  {
+    "@type": "Place",
+    "addressLocality": "London.",
+    "addressCountry": "England"
+  },
+  "description": "This record contains unverified data from old cards and may contain incorrect or incomplete text. Please consult Curator for assistance.",
+  "folgerCallNumber": "ART File T329 no.48 PHOTO",
+  "format": "image",
+  "Agent":
+  [
+    { "name": "Window & Grove,","description": "photographer","uri": "http://id.loc.gov/authorities/names/no2007023971"}
+  ],
+  "inLanguage" : "eng",
+  "extent" : "2 photographs ",
+  "size" : ": 5 5/8 x 4 1/4 in.",
+  "about":
+  [
+    {
+      "uri":"http://id.loc.gov/authorities/names/n50013070",
+      "description":"Terry, Ellen, Dame, 1847-1928, depicted."
+    },
+    {
+      "uri":"http://id.loc.gov/authorities/names/n50013070",
+      "description":"Terry, Ellen, Dame, 1847-1928 --Performances, depicted."
+    },
+    {
+      "uri":"http://id.loc.gov/authorities/names/n82116107",
+      "description":"Shakespeare, William, 1564-1616. Romeo and Juliet, depicted."
+    },
+    {
+      "uri":"http://id.loc.gov/authorities/subjects/sh85120865",
+      "description":"Shakespeare, William, 1564-1616 --Characters --Juliet, depicted."
+    },
+    {
+      "uri":"http://id.loc.gov/authorities/subjects/sh96004585",
+      "description":"Juliet (Fictitious character), depicted."
+    },
+    {
+      "uri":"http://id.loc.gov/authorities/subjects/sh85000744",
+      "description":"Actors --19th century, depicted."
+    }
+  ],
+  "genre": 
+  [
+    {
+      "search": "Portraits --Female --19th century.", 
+      "terms": ["Portraits", "Female", "19th century."],
+      "uri": ""
+    },
+    {
+      "search": "Photographs --19th century.", 
+      "terms": ["Photographs", "19th century."],
+      "uri": ""
+    }
+  ],
+  "folgerRelatedItems":
+  [
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "24371", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "", "mpso" : 0, "description" : "digital image" }
+  ]
+},
+{
+  "isBasedOn": "http://hamnet.folger.edu/cgi-bin/Pwebrecon.cgi?BBID=254670#334435",
+  "name":  "Miss Ellen Terry as \"Juliet\" [in Shakespeare’s Romeo and Juliet] [graphic] / Window & Grove." ,
+  "RemoteUniqueID" : "fj93fj34m",
+  "datePublished": 
+    {"startDate": 1882},
+  "dateCreated": "[1882?]",
+  "locationCreated" : 
+  {
+    "@type": "Place",
+    "addressLocality": "London.",
+    "addressCountry": "England"
+  },
+  "description": "This record contains unverified data from old cards and may contain incorrect or incomplete text. Please consult Curator for assistance.",
+  "folgerCallNumber": "ART File T329 no.47 PHOTO",
+  "format": "image",
+  "Agent":
+  [
+    { "name": "Window & Grove,","description": "photographer","uri": "http://id.loc.gov/authorities/names/no2007023971"}
+  ],
+  "inLanguage" : "eng",
+  "extent" : "2 photographs ",
+  "size" : ": 5 5/8 x 4 1/4 in.",
+  "about":
+  [
+    {
+      "uri":"http://id.loc.gov/authorities/names/n50013070",
+      "description":"Terry, Ellen, Dame, 1847-1928, depicted."
+    },
+    {
+      "uri":"http://id.loc.gov/authorities/names/n50013070",
+      "description":"Terry, Ellen, Dame, 1847-1928 --Performances, depicted."
+    },
+    {
+      "uri":"http://id.loc.gov/authorities/names/n82116107",
+      "description":"Shakespeare, William, 1564-1616. Romeo and Juliet, depicted."
+    },
+    {
+      "uri":"http://id.loc.gov/authorities/subjects/sh85120865",
+      "description":"Shakespeare, William, 1564-1616 --Characters --Juliet, depicted."
+    },
+    {
+      "uri":"http://id.loc.gov/authorities/subjects/sh96004585",
+      "description":"Juliet (Fictitious character), depicted."
+    },
+    {
+      "uri":"http://id.loc.gov/authorities/subjects/sh85000744",
+      "description":"Actors --19th century, depicted."
+    }
+  ],
+  "genre": 
+  [
+    {
+      "search": "Portraits --Female --19th century.", 
+      "terms": ["Portraits", "Female", "19th century."],
+      "uri": ""
+    },
+    {
+      "search": "Photographs --19th century.", 
+      "terms": ["Photographs", "19th century."],
+      "uri": ""
+    }
+  ],
+  "folgerRelatedItems":
+  [
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "24370", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "", "mpso" : 0, "description" : "digital image" }
+  ]
+}
+,
+{
+  "isBasedOn": "http://hamnet.folger.edu/cgi-bin/Pwebrecon.cgi?BBID=249046#321201",
+  "name": "Maude Adams as Juliet, 1899 [graphic].",
+"RemoteUniqueID": "iwhi74hiy7cj8v",
+  "datePublished":
+    {"startDate": 1882},
+  "dateCreated": "1899",
+  "locationCreated" :
+  {
+    "@type": "Place",
+    "addressLocality": "New York.",
+    "addressCountry": "United States"
+  },
+  "description":"This record contains unverified data from old cards and may contain incorrect or incomplete text. Please consult Curator for assistance.",
+  "description":"Title in ink on Folger copy.",
+  "description":"Also available as a digital reproduction.",
+  "folgerCallNumber": "ART File A215 no.3 PHOTO",
+  "format": "image",
+  "inLanguage" : "eng",
+  "extent" : "1 photograph ",
+  "size" : "6 1/2 X 4 1/2 in.",
+  "about":
+  [
+    {
+      "uri":"http://id.loc.gov/authorities/names/n83148859",
+      "description":"Adams, Maude, 1872-1953, depicted."
+    },
+    {
+      "uri":"http://id.loc.gov/authorities/names/n83148859",
+      "description":"Adams, Maude, 1872-1953 --Performances, depicted."
+    },
+    {
+      "uri":"http://id.loc.gov/authorities/names/n82116107",
+      "description":"Shakespeare, William, 1564-1616. Romeo and Juliet, depicted."
+    },
+    {
+      "uri":"http://id.loc.gov/authorities/subjects/sh85120865",
+      "description":"Shakespeare, William, 1564-1616 --Characters --Juliet, depicted."
+    },
+    {
+      "uri":"http://id.loc.gov/authorities/subjects/sh96004585",
+      "description":"Juliet (Fictitious character), depicted."
+    },
+    {
+      "uri":"http://id.loc.gov/authorities/subjects/sh85000744",
+      "description":"Actors --19th century, depicted."
+    }
+  ],
+  "genre":
+  [
+    {
+      "search": "Portraits --Female --19th century.", 
+      "terms": ["Portraits","Female","19th century."],
+      "uri": ""
+    },
+    {
+      "search": "Photographs --19th century.", 
+      "terms": ["Photographs", "19th century."],
+      "uri": ""
+    }
+  ],
+  "folgerRelatedItems":
+  [
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "20803", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "image", "label" : "", "mpso" : 0, "description" : "digital image" }
+  ]
+}
+]

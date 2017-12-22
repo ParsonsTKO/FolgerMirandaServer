@@ -1,0 +1,58 @@
+{
+	"isBasedOn": "http://hamnet.folger.edu/cgi-bin/Pwebrecon.cgi?BBID=128835",
+  	"creator": {
+		"givenName": "Thomas",
+		"familyName": "Middleton",
+		"authority": ""
+	},
+  	"name": "A game at chess [manuscript] : as it was acted nine dayes together, ca. 1624 / compos’de by Tho. Middleton.",
+  	"alternateName": "",
+  	"dateCreated": "",
+  	"datePublished": "1882",
+  	"Publisher": "TODO",
+  	"locationCreated": {
+    	"@type": "Place",
+      	"address": "London, UK"
+      },
+  	"Extent": "",
+  	"Size": "",
+  	"Format": "",
+  	"description": "Poems and epilogue listed in the Folger card index of first lines. Title from title page. Known as the \"Rosenbach\" manuscript. Portions also available as a digital reproduction. Also available on microfilm.",
+  	"genre": [
+    {
+      	"search" : "Manuscripts (documents) --England --17th century.",
+      	"terms" : ["Manuscripts (documents)", "England", "17th century"],
+      	"uri" : ""
+    },
+    {
+     	"search": "Plays (performed works) --England --17th century --Manuscripts.",
+     	"terms": ["Plays (performed works)", "England", "17th century", "Manuscripts."]
+    },
+    {
+     	"search" : "Poems --England --17th century --Manuscripts",
+      	"terms" : ["Poems", "England", "17th century", "Manuscripts"]
+    },
+    {
+    	"search" : "Prologues and epilogues --England --17th century --Manuscripts",
+    	"terms" : ["Prologues and epilogues", "England", "17th century", "Manuscripts"]
+    }
+  ],
+  "folgerCallNumber": "FILM Fo. 12.8",
+  "PROVIDED BY BOOK SCHEMA, requires data cleaning to INT to leverage:  numberOfPages" : "77 p. ;",
+  "folgerDimensions": "187 x 143 mm",
+  "about": {
+  		"uri" : "http://id.loc.gov/authorities/names/n78095332",
+  	 	"description" : " Shakespeare, William"
+  },
+  "Associated name": "",
+  "inLanguage": "",
+  "license": "Tends to be url link to license",
+  "additionalType": "Photograph",
+  "Has part": [],
+  "Is part of": "",
+  "folgerRelatedItems": "For another version of the play, see Folger MS V.a.231. Other manuscripts of this play are held at Trinity College Cambridge (MS O.2.66), Huntington Library (MS EL 34.B.17), British Library (Lansdowne MS 690) and the Bodleian Library (Malone MS 525).",
+  "MPSO": "",
+  "position": "",
+  "folgerProvenance": "",
+  "From": ""
+}

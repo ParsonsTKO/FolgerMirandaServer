@@ -1,0 +1,253 @@
+{% extends "AppBundle::base_layout.html.twig" %}
+
+{% block content %}
+	
+	<div class="container-fluid Main--import">
+		<div class="row">
+			<div class="col-md-10 col-md-offset-1 text-left">
+				<div class="page-header">
+					<h1>DAP Import From Luna Json<small></small></h1>
+				</div>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tempus varius convallis. Fusce rutrum neque et cursus aliquet. Praesent feugiat quam vel odio porttitor pellentesque.</p>
+				<div id="schemasAccordion" role="tablist" aria-multiselectable="true">
+					<div class="card">
+    					<div class="card-header" role="tab" id="headingOne">
+    						<h5 class="mb-0">
+    							<a href="#schemasCollapse" data-toggle="collapse" data-parent="#accordion" aria-expanded="true" aria-controls="schemasCollapse">
+    								View Available Schemas  
+    							</a>
+    						</h5>
+    					</div>
+    					<div id="schemasCollapse" class="collapse" role="tabpanel" aria-labelledby="headingOne">
+    						<div class="card-block">
+    							{% if schemas is defined and schemas|length > 0 %}
+    								<ul>
+        								{% for identifier, schema in schemas %}
+        									<li>{{ identifier }}</li>
+        									{% if schema is defined and schema|length > 0 %}
+        										<ul>
+            										{% for identifierChild, schemaChild in schema %}
+            											<Li>{{ identifierChild }}: {{ schemaChild }}</Li>
+            								        {% endfor %}
+        								        </ul>
+        									{% endif %}
+        								{% endfor %}
+    								</ul>
+    							{% endif %}
+    						</div>
+    					</div>
+    				</div>
+    			</div>
+    			<hr class="my-4">
+				{{ form_start(form) }}
+                {% if result.import_result_content is defined and result.import_result_content|length > 0 %}
+				<div class="alert alert-warning" role="alert">
+					<a href="/dapimport/downloader" class="alert-link">Your content has been imported, below. Your images and binary files have been queued for downloading. Visit this link to process that queue.</a>
+				</div>
+				{% endif %}
+					<div class="row content">
+						<div class="col-md-12 text-left">
+        					{% if result|length > 0 %}
+        						{% if result.import_result|length > 0 %}
+            						{% for key, item in result.import_result %}
+            							{% if key == "validation" %}
+                					    	{% if item.success %}
+                					    		<div class="alert alert-info" role="alert">
+                					    			<h4>Content validated</h4>
+                					    			<p>{{ item.message }}</p>
+                					    			{% if result.import_result_images|length > 0 %}
+                					    				<p><strong>Image to import:</strong></p>
+                					    				{% for item in result.import_result_images %}
+                                            				{% for rootfile, images in item %}
+                                            					<p>Rootfile {{ rootfile }}</p>
+                                            					<ul>
+                                                					{% for identifier, image in images %}
+                                                						{% if image != "" %}
+                                                    					    <li>
+                                                    					    	{{identifier}}: <a href="{{ image }}" target="_blank">{{ image }}</a>
+                                                    					    </li>
+                                                    					{% endif %}
+                                                					{% endfor %}
+                                                    			</ul>
+                                            				{% endfor %}
+                                            			{% endfor %}
+                                					{% endif %}
+                					    		</div>
+                					    	{% else %}
+                					    		<div class="alert alert-danger" role="alert">
+                					    			<h4>Content validated</h4>
+                					    			<p>{{ item.message }}</p>
+                    					    		<ul>
+                                    			    	{% for error in item.errors %}
+                                    			    		<li>{{ error }}</li>
+                                    			    	{% endfor %}
+                                			    	</ul>
+                					    		</div>
+                					    	{% endif %}
+                					    {% endif %}
+                        			{% endfor %}
+                        		{% endif %}
+        					{% endif %}
+        					{% if result.import_result_content is defined and result.import_result_content|length > 0 %}
+
+        						<div class="alert alert-info" role="alert">
+            						<h4>Content imported</h4>
+        							<p>Json content has been imported.<br><br></p>
+    							    {% for record in result.import_result_content %}
+                    					<h4>Item #{{ loop.index }}</h4>
+                						<div class="row">
+                							<div class="col-md-12 text-left">
+                        						<div class="row">
+                    								<div class="col-md-2 text-left">dapID:</div><div class="col-md-10 text-left">{{ record.dapID }}</div>
+                    							</div>
+                    							<hr class="my-4">
+                        						<div class="row">
+                    								<div class="col-md-2 text-left">createdDate:</div><div class="col-md-10 text-left">{{ record.createdDate|date() }}</div>
+                    							</div>
+                    							<hr class="my-4">
+                        						<div class="row">
+                    								<div class="col-md-2 text-left">updatedDate:</div><div class="col-md-10 text-left">{{ record.updatedDate|date() }}</div>
+                    							</div>
+                    							<hr class="my-4">
+                        						<div class="row">
+                    								<div class="col-md-2 text-left">remoteSystem:</div><div class="col-md-10 text-left">{{ record.remoteSystem }}</div>
+                    							</div>
+                    							<hr class="my-4">
+                        						<div class="row">
+                    								<div class="col-md-2 text-left">remoteID:</div><div class="col-md-10 text-left">{{ record.remoteID }}</div>
+                    							</div>
+                    							<hr class="my-4">
+                        						<div class="row">
+                    								<div class="col-md-2 text-left">recordType:</div><div class="col-md-10 text-left">{{ record.recordType }}</div>
+                    							</div>
+                    							<hr class="my-4">
+                        						<div class="row">
+                    								{% if record.metadata|length > 0 %}
+                    									<div class="col-md-2 text-left">metadata:</div>
+                										<div class="col-md-10 text-left">
+                											{% for metadataIdentifier, metadataValue in record.metadata %}
+                												<div class="row">
+                													<div class="col-md-2 text-left">{{ metadataIdentifier }}:</div>
+                													<div class="col-md-10 text-left">
+                    													{% if metadataValue is iterable %}
+                    														<div class="row">
+                        														{% for identifier, value in metadataValue %}
+                        															<div class="col-md-12 text-left">
+                            															{% if value is iterable %}
+                            																<div class="row">
+                            														    		{% for itemIdentifier, itemValue in value %}
+                            														    			<div class="col-md-10 text-left">
+                            														    			    {{ itemIdentifier }}: {{ itemValue }}
+                            														    			</div>
+                            														    		{% endfor %}
+                        														    		</div>
+                    														    		{% else %}
+                    														    			<p>{{ value }}</p>
+                    														    		{% endif %}
+                    														    	</div>
+                        														{% endfor %}
+                        													</div>
+            														    {% else %}
+            														    	<p>{{ metadataValue }}</p>
+            														    {% endif %}
+            														</div>
+                												</div>
+                												<hr class="my-4">
+                											{% endfor %}
+                										</div>
+                    								{% endif %}
+                    							</div>
+                							</div>
+                						</div>
+                					{% endfor %}
+            					</div>
+        					{% endif %}
+        				</div>
+        				<div class="col-md-6 text-left">
+        					<div class="form-group">
+                				<h4>File <small>Load a Json file.</small></h4>
+    							<label class="custom-file">
+    								<input type="file" id="jsonFile" class="custom-file-input" accept=".json">
+    								<span id="selectedJsonFile" class="custom-file-control">Choose file...</span>
+    							</label>
+    						</div>
+    						<div class="form-group">
+            				    {{ form_errors(form.file_text) }}
+            				    {{ form_widget(form.file_text) }}
+            				</div>
+        				</div>
+        				<div class="col-md-6 text-left">
+                            <div class="form-group">
+                				<h4>Schema <small>Select a schema from list.</small></h4>
+                            	{{ form_errors(form.schema_list) }}
+                            	{{ form_widget(form.schema_list) }}
+                            </div>
+        					<div class="form-group">
+            				    {{ form_errors(form.schema_text) }}
+            				    {{ form_widget(form.schema_text) }}
+            				</div>
+        				</div>
+        				<div class="col-md-12 text-left">
+        					<div class="form-group">
+                                {{ form_widget(form.validate) }}
+                                {{ form_widget(form.validateAndImport) }}
+                            </div>
+        				</div>
+        			</div>
+				{{ form_end(form) }}
+    		</div>
+		</div>
+	</div>
+{% endblock %}
+{% block additional_script %}
+	<script>
+		$( document ).ready(function() {
+
+			$(".lined").linedtextarea();
+
+			$('#jsonFile').on("change", function(){
+				var file = $(this)[0].files[0]; 
+				previewFile(file);
+				$("#selectedJsonFile").html(file.name);
+			});
+
+			$('#form_schema_list').on("change", function(){ 
+				var identifier = $(this).val();
+
+				if (identifier != "") {
+					getSchema(identifier);
+				} else {
+					$("#form_schema_text").html("");
+				} 
+			});
+
+			$('.carousel').carousel();
+						
+		});
+
+    	function previewFile(file) {                                                       
+    	    var reader = new FileReader();
+    	    reader.onload = readSuccess;                                            
+    	    function readSuccess(e) { 
+    	        var field = $('#form_file_text');                        
+    	        $(field).html(e.target.result);                                
+    	    };
+    	    reader.readAsText(file);                                              
+    	}
+
+    	function getSchema(identifier) {
+    		var uri = "{{ path('dap_import_content_type_base') }}" + "/" + identifier;
+			var jqxhr = $.getJSON( uri, function(data) {
+                jsonData = data;
+            })
+            .done(function( json ) {
+                console.log( "Json success" );
+                $("#form_schema_text").html(JSON.stringify(json, undefined, 4));
+            })
+            .fail(function( jqxhr, textStatus, error ) {
+                var err = textStatus + ", " + error;
+                console.log( "Request Failed: " + err );
+            });
+    	}
+	</script>
+{% endblock %}

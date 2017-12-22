@@ -1,0 +1,31 @@
+<header>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 text-center">
+				<a href="/" class="">
+					<img class="Logo-img" src="{{ asset('bundles/app/images/logo-negative.png') }}"> <span class="Logo-desc"></span>
+				</a>
+			</div>
+		</div>
+	</div>
+    <nav class="navbar navbar-inverse bg-inverse navbar-toggleable-md">
+    	<div class="container-fluid">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+    			<span class="icon-bar"></span>
+    			<span class="icon-bar"></span>
+    			<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" href="/"><span class="glyphicon glyphicon-home"></span> Digital Asset Platform</a>
+		</div>
+		<div class="collapse navbar-collapse" id="myNavbar">
+			<ul class="nav navbar-nav">
+				<li class=""><a href="{{ path("dap_dashboard") }}"><span class="glyphicon glyphicon-dashboard"></span> DAP GraphQL</a></li>
+				<li class=""><a href="{{ path("dap_import_dashboard") }}"><span class="glyphicon glyphicon-import"></span> DAP Import</a></li>
+				<li class=""><a href="{{ path("dap_build_elastic_index") }}"><span class="glyphicon glyphicon-search"></span> Build Elasticsearch Index</a></li>
+				<li class=""><a href="{{ path("dap_build_seo_index") }}"><span class="glyphicon glyphicon-search"></span> Build XML Sitemap</a></li>
+			</ul>
+		</div>
+		</div>
+    </nav>
+</header>

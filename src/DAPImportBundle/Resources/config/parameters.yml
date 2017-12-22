@@ -1,0 +1,47 @@
+parameters:
+    dap_import.import:
+        schemas:
+            contentTypeField: format
+        content:
+            voyager_record:
+                json_type: 'multiple'
+                json_id_field: 'RemoteUniqueID'
+                json_to_content_type: 'recordType'
+                json_to_content_type_id: '1'
+                json_to_field: 'metadata'
+                json_fields:
+                    - 'fileURL'
+                images:
+                  root: 'http://dapdev.dev/'
+                  path: 'var/folger/storage/binary'
+                  type: 'binary_files'
+            luna_record:
+                json_type: 'multiple'
+                json_id_field: 'rootfile'
+                json_to_content_type: 'recordType'
+                json_to_content_type_id: '2'
+                json_to_field: 'metadata'
+                json_fields:
+                    - 'size4jpgURL'
+                    - 'size5jpgURL'
+                    - 'size6jpgURL'
+                    - 'size7jpgURL'
+                images:
+                    path: 'var/folger/storage/images'
+                    type: '.jpg'
+                    names:
+                        size4jpgURL: 'size4'
+                        size5jpgURL: 'size5'
+                        size6jpgURL: 'size6'
+                        size7jpgURL: 'size7'
+                    variations_source: 'size4jpgURL'
+                    variations:
+                        small:
+                            witdh: 210
+                            height: 310
+                        medium:
+                            witdh: 420
+                            height: 620
+                        large:
+                            witdh: 650
+                            height: 960

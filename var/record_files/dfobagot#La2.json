@@ -1,0 +1,23 @@
+{
+  "isBasedOn":"http://findingaids.folger.edu/dfobagot.xml#La2",
+  "name":"Letter from Ralph Adderley I to Sir Nicholas Bagnal, marshal (of army) in Ireland",
+  "dateCreated":"1567 April 10",
+  "description":"Asks him to watch over John Bagot, Richard's brother, who is going to Ireland to sow his wild oats, that he may not fall into any penury. His brother is a sober gentleman, as highly thought of as any esquire not exceeding 300 marks land within three shires.",
+  "folgerCallNumber":"L.a.2",
+  "format":"text",
+  "genre":"letters",
+  "agent":
+  [
+    {"name":"Ralph Adderley I","description":"creator"},
+    {"name":"Sir Nicholas Bagnal, marshal (of army) in Ireland","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    {"@id":"http://findingaids.folger.edu/dfobagot.xml#Collection","description":"collection"},
+    {"@id":"DAP internal ID for the following rootfile","rootfile":"38762","label":"leaf 1 recto","mpso":"4","description":"digital image"},
+    {"@id":"DAP internal ID for the following rootfile","rootfile":"38763","label":"leaf 1 verso","mpso":"5","description":"digital image"},
+    {"@id":"DAP internal ID for the following rootfile","rootfile":"38764","label":"leaf 2 recto","mpso":"6","description":"digital image"},
+    {"@id":"DAP internal ID for the following rootfile","rootfile":"38765","label":"leaf 2 verso","mpso":"7","description":"digital image"}
+  ]
+}

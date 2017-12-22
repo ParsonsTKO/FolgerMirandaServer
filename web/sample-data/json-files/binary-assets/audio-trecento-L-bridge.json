@@ -1,0 +1,47 @@
+[{
+  "RemoteUniqueID": "John Is Testing This",
+  "name":  "Florence: Christmas Music of the Trecento AKG_L (Acts 1 & 2) (qwasg)" ,
+  "datePublished": {"startDate": 2012, "endDate":2012},
+  "dateCreated": "December 14-23,2012",
+  "locationCreated" : 
+  {
+    "@type": "Place",
+    "addressLocality": "Washington D.C.",
+    "addressCountry": "United States",
+    "URI":"http://id.loc.gov/authorities/names/n79018774"
+  },
+  "description": "DATE OF CONCERTS: December 14-23,2012 TITLE OF PERFORMANCE: FLORENCE: Christmas Music of the Trecento ARTISTS AND INSTRUMENTS: Christa Patton (Harp, Recorder, Bagpipe) Mark Rimple (Lute, Psaltery, Medieval Fiddle) Mary Springles (Medieval Fiddle, Citole) Trios Eos (Vocal Ensemble) Robert Einstein (Medieval Fiddle, Recorder, Lute)",
+  "format" : "sound",
+  "inLanguage": "eng",
+  "genre" :
+  [
+    {
+      "search": "Live sound recordings", 
+      "terms": ["Live sound recordings"],
+      "uri": "http://id.loc.gov/authorities/genreForms/gf2011026368"
+    },
+    {
+      "search": "Christmas music",
+      "terms": ["Christmas music"],
+      "uri": "http://id.loc.gov/authorities/genreForms/gf2014026716"
+    }
+  ],
+  "folgerRelatedItems" : [
+    {
+      "folgerRemoteIdentification" : {
+        "folgerRemoteUniqueID" : "http://dapdev.dev/var/folger/storage/trecento/AKG_L_Act_1.wav",
+        "folgerRemoteSystemID" : "1"
+      },
+      "folgerRelationshipType" : "included",
+      "folgerObjectType" : "audio"
+    },
+    {
+      "folgerRemoteIdentification" : {
+        "folgerRemoteUniqueID" : "http://dapdev.dev/var/folger/storage/trecento/AKG_L_Act_2.wav",
+        "folgerRemoteSystemID" : "1"
+      },
+      "folgerRelationshipType" : "included",
+      "folgerObjectType" : "audio"
+    }
+  ]
+}]

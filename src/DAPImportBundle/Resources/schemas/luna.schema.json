@@ -1,0 +1,89 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "definitions": {},
+    "id": "contenttype/images",
+    "title": "Folger Images Luna",
+    "description": "",
+    "items": {
+        "id": "/items",
+        "properties": {
+            "author": {
+                "id": "/items/properties/author",
+                "type": "string"
+            },
+            "bibId": {
+                "id": "/items/properties/bibId",
+                "type": "integer"
+            },
+            "callNumber": {
+                "id": "/items/properties/callNumber",
+                "type": "string"
+            },
+            "dateCreated": {
+                "id": "/items/properties/dateCreated",
+                "type": "string"
+            },
+            "dateUpdated": {
+                "id": "/items/properties/dateUpdated",
+                "type": "string"
+            },
+            "holdingsId": {
+                "id": "/items/properties/holdingsId",
+                "type": "integer"
+            },
+            "imprintOrigin": {
+                "id": "/items/properties/imprintOrigin",
+                "type": "string"
+            },
+            "lunaImageId": {
+                "id": "/items/properties/lunaImageId",
+                "type": "integer"
+            },
+            "lunaObjectId": {
+                "id": "/items/properties/lunaObjectId",
+                "type": "integer"
+            },
+            "lunaURL": {
+                "id": "/items/properties/lunaURL",
+                "type": "string"
+            },
+            "multiPageSortOrder": {
+                "id": "/items/properties/multiPageSortOrder",
+                "type": "integer"
+            },
+            "pageNumber": {
+                "id": "/items/properties/pageNumber",
+                "type": "string"
+            },
+            "rootfile": {
+                "id": "/items/properties/rootfile",
+                "type": "integer"
+            },
+            "size4jpgURL": {
+                "id": "/items/properties/size4jpgURL",
+                "type": "string"
+            },
+            "size5jpgURL": {
+                "id": "/items/properties/size5jpgURL",
+                "type": "string"
+            },
+            "size6jpgURL": {
+                "id": "/items/properties/size6jpgURL",
+                "type": "string"
+            },
+            "size7jpgURL": {
+                "id": "/items/properties/size7jpgURL",
+                "type": "string"
+            },
+            "title": {
+                "id": "/items/properties/title",
+                "type": "string"
+            }
+        },
+        "required": [
+            "rootfile", "callNumber", "pageNumber", "multiPageSortOrder", "title", "author", "imprintOrigin", "bibId", "holdingsId", "lunaObjectId", "lunaImageId", "lunaURL", "size4jpgURL", "size5jpgURL", "size6jpgURL", "size7jpgURL", "dateCreated", "dateUpdated"
+        ],
+        "type": "object"
+    },
+    "type": "array"
+}

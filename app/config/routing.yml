@@ -1,0 +1,16 @@
+app:
+    resource: "@AppBundle/Resources/config/routing.yml"
+    prefix:   /
+
+dap:
+    resource: "@DAPBundle/Resources/config/routing.yml"
+    prefix:   /
+
+dap_import:
+    resource: "@DAPImportBundle/Resources/config/routing.yml"
+    prefix:   /
+
+api:
+    resource: '.'
+    type:     'api_platform'
+    prefix:   '/api' # Optional

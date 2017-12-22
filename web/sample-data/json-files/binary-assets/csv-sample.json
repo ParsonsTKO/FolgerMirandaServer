@@ -1,0 +1,25 @@
+[{
+  "RemoteUniqueID": "http://www.sample-videos.com/csv/Sample-Spreadsheet-10-rows.csv",
+  "fileURL": "http://www.sample-videos.com/csv/Sample-Spreadsheet-10-rows.csv",
+  "name":  "Sample CSV File" ,
+  "datePublished": {"startDate": 2017},
+  "dateCreated": "2017",
+  "description": "Sample CSV file with 10 rows",
+  "format" : "csv",
+  "inLanguage": "eng",
+  
+  "contentSize" : "2k",
+  "fieldList" : [
+    "product name",
+    "person name",
+    "integer one",
+    "floating point one",
+    "second floating point",
+    "last number",
+    "placename",
+    "category",
+    "rating"
+  ],
+  "numberOfRows": 10
+
+}]

@@ -1,0 +1,53 @@
+[{
+  "RemoteUniqueID": "flgr.sh/audcon12#jc",
+  "isBasedOn": "flgr.sh/audcon12#jc",
+  "name":  "Christmas in New Spain" ,
+  "alternateName":  "Early Music of Mexico and Peru",
+  "datePublished": {"startDate": 2014, "endDate":2014},
+  "dateCreated": "2013",
+  "locationCreated" : 
+  {
+    "@type": "Place",
+    "addressLocality": "Washington D.C.",
+    "addressCountry": "United States",
+  "URI":"http://id.loc.gov/authorities/names/n79018774"
+  },
+  "description": "This live recording from 2013 celebrates the holidays with the music of the Spanish empire in the New World, where the interaction between Spanish, Inca, and Aztec cultures produced unique music with indigenous American as well as African elements. By popular demand, Folger Consort celebrates the holidays with the music of the Spanish empire in the New World, where the interaction between Spanish, Inca, and Aztec cultures produced unique music with indigenous American as well as African elements. Enjoy the mix of lively early baroque dances and exuberant music by Latin American and Spanish composers for the Christmas season. Folger Consort performed Christmas in New Spain: Early Music of Mexico and Peru from December 13 to December 22, 2013. Exuberant music by 16th- and 17th-century Latin American and Spanish composers for the Christmas season and lively rhythms of early baroque dances were performed with vocal ensemble, guitar, harp, violin, viol, and bassoon.",
+  "format" : "sound",
+  "Agent":
+  [
+    {"description": "Folger Consort", "agentRole" : "performer", "uri" : "http://id.loc.gov/authorities/names/n89670907"},
+  {"description": "Bard", "agentRole": "production company"}
+  ],
+  "inLanguage": "eng",
+  "inLanguage": "spa",
+  "inLanguage": "lat",
+  "extent": "1 hour, 5 minutes, 38 seconds",
+  "genre" :
+  [
+    {
+      "search": "Live sound recordings", 
+      "terms": ["Live sound recordings"],
+      "uri": "http://id.loc.gov/authorities/genreForms/gf2011026368"
+    },
+  {
+  "search": "Christmas music",
+  "terms": ["Christmas music"],
+  "uri": "http://id.loc.gov/authorities/genreForms/gf2014026716"
+  }
+  ],
+  "relatedLink":
+  [
+    {"description": "CDBaby purchase link", "url": "https://store.cdbaby.com/cd/folgerconsort12"},
+    {"description": "Folgerpedia article", "url": "http://folgerpedia.folger.edu/Christmas_in_New_Spain:_Early_Music_of_Mexico_and_Peru_(2013)"},
+    {"description": "YouTube sample", "url": "https://www.youtube.com/watch?v=k97zg23Kr_Y"}
+  ],
+  "folgerRelatedItems" : [
+    {"@id" : "", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "https://www.youtube.com/watch?v=k97zg23Kr_Y", "folgerRemoteSystemID" : "YouTube" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "oembed", "label" : "YouTube Sample", "mpso" : 1, "description" : "YouTube Sample" },
+    {"@id" : "", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "http://folgerpedia.folger.edu/Christmas_in_New_Spain:_Early_Music_of_Mexico_and_Peru_(2013)", "folgerRemoteSystemID" : "web" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "oembed", "label" : "Folgerpedia article", "mpso" : 2, "description" : "Folgerpedia article" },
+    {"@id" : "", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "https://store.cdbaby.com/cd/folgerconsort12", "folgerRemoteSystemID" : "web" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "oembed", "label" : "CDBaby purchase link", "mpso" : 3, "description" : "CDBaby purchase link" },
+    {"@id" : "DAP internal ID for the following rootfile", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "139065", "folgerRemoteSystemID" : "luna" }, "folgerRelationshipType" : "included image", "folgerObjectType" : "luna", "label" : "front outside cover", "mpso" : 1, "description" : "digital image" }
+  ]
+
+
+}]

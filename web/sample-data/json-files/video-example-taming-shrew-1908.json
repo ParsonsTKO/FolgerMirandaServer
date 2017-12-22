@@ -1,0 +1,23 @@
+[{
+  "RemoteUniqueID": "http://hamnet.folger.edu/cgi-bin/Pwebrecon.cgi?BBID=126058",
+  "isBasedOn": "http://hamnet.folger.edu/cgi-bin/Pwebrecon.cgi?BBID=126058",
+  "name":  "Taming of the shrew (Motion Picture: 1908)" ,
+  "datePublished": {"startDate": 1908, "endDate":1908},
+  "dateCreated": "1908",
+  "locationCreated" : 
+  {
+    "@type": "Place",
+    "addressLocality": "Washington D.C.",
+    "addressCountry": "United States",
+    "URI":"http://id.loc.gov/authorities/names/n79018774"
+  },
+  "description": "1 videodisc (11 min.) : sd., black & white ; 4 3/4 in. Notes:  Originally released by American Mutoscope and Biograph, 1908. Released by Kino International as a supplement to their Othello (c1922). Cast list provided by Internet movie data base, 10 July 2003. DVD; Dolby digital stereo. Silent film with English intertitles.",
+  "format" : "video",
+  "inLanguage": "eng",
+  
+  "folgerRelatedItems" : [
+    {"@id" : "", "folgerRemoteIdentification" : { "folgerRemoteUniqueID" : "http://dapdev.dev/var/folger/storage/shrew/Taming_of_the_Shrew_ClipDVD10.m4v", "folgerRemoteSystemID" : "binary-files" }, "folgerRelationshipType" : "included video", "folgerObjectType" : "video", "label" : "m4v of the film", "mpso" : 1, "description" : "m4v of Taming of the Shrew (1908)" }
+  ]
+
+
+}]

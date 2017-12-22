@@ -1,0 +1,36 @@
+parameters:
+    dap_import.schemas:
+        path: '/../src/DAPImportBundle/Resources/schemas/'
+        default: FolgerCW.schema
+        schemas:
+            default:
+                base: FolgerCW.schema
+            art:
+                base: art.schema
+                architectural: null
+                historical: null
+                landscape: null
+                performances_events: null
+                portrait: portrait.schema 
+                print_making_materials: null
+            commentary: 
+                base: commentary.schema
+                analysis: null
+                appreciation: null
+                argumentation: null
+                exploratory_dialogue: null
+            communications:
+                base: communications.schema
+                cards: null
+                telegrams: null
+                letters: letters.schema
+            images:
+                base: luna.schema
+            audio:
+                base: folger-audio.schema
+            video:
+                base: folger-video.schema
+            binary:
+                base: folger-binary.schema
+            csv:
+                base: folger-csv.schema

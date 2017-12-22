@@ -1,0 +1,177 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "definitions": {},
+    "id": "http://example.com/example.json",
+    "properties": {
+        "Associated name": {
+            "id": "/properties/Associated name",
+            "type": "string"
+        },
+        "Extent": {
+            "id": "/properties/Extent",
+            "type": "string"
+        },
+        "Format": {
+            "id": "/properties/Format",
+            "type": "string"
+        },
+        "From": {
+            "id": "/properties/From",
+            "type": "string"
+        },
+        "Has part": {
+            "id": "/properties/Has part",
+            "items": {},
+            "type": "array"
+        },
+        "Is part of": {
+            "id": "/properties/Is part of",
+            "type": "string"
+        },
+        "MPSO": {
+            "id": "/properties/MPSO",
+            "type": "string"
+        },
+        "PROVIDED BY BOOK SCHEMA, requires data cleaning to INT to leverage:  numberOfPages": {
+            "id": "/properties/PROVIDED BY BOOK SCHEMA, requires data cleaning to INT to leverage:  numberOfPages",
+            "type": "string"
+        },
+        "Publisher": {
+            "id": "/properties/Publisher",
+            "type": "string"
+        },
+        "Size": {
+            "id": "/properties/Size",
+            "type": "string"
+        },
+        "about": {
+            "id": "/properties/about",
+            "properties": {
+                "description": {
+                    "id": "/properties/about/properties/description",
+                    "type": "string"
+                },
+                "uri": {
+                    "id": "/properties/about/properties/uri",
+                    "type": "string"
+                }
+            },
+            "type": "object"
+        },
+        "additionalType": {
+            "id": "/properties/additionalType",
+            "type": "string"
+        },
+        "alternateName": {
+            "id": "/properties/alternateName",
+            "type": "string"
+        },
+        "creator": {
+            "id": "/properties/creator",
+            "properties": {
+                "authority": {
+                    "id": "/properties/creator/properties/authority",
+                    "type": "string"
+                },
+                "familyName": {
+                    "id": "/properties/creator/properties/familyName",
+                    "type": "string"
+                },
+                "givenName": {
+                    "id": "/properties/creator/properties/givenName",
+                    "type": "string"
+                }
+            },
+            "type": "object"
+        },
+        "dateCreated": {
+            "id": "/properties/dateCreated",
+            "type": "string"
+        },
+        "datePublished": {
+            "id": "/properties/datePublished",
+            "type": "string"
+        },
+        "description": {
+            "id": "/properties/description",
+            "type": "string"
+        },
+        "folgerCallNumber": {
+            "id": "/properties/folgerCallNumber",
+            "type": "string"
+        },
+        "folgerDimensions": {
+            "id": "/properties/folgerDimensions",
+            "type": "string"
+        },
+        "folgerProvenance": {
+            "id": "/properties/folgerProvenance",
+            "type": "string"
+        },
+        "folgerRelatedItems": {
+            "id": "/properties/folgerRelatedItems",
+            "type": "string"
+        },
+        "genre": {
+            "id": "/properties/genre",
+            "items": {
+                "id": "/properties/genre/items",
+                "properties": {
+                    "search": {
+                        "id": "/properties/genre/items/properties/search",
+                        "type": "string"
+                    },
+                    "terms": {
+                        "id": "/properties/genre/items/properties/terms",
+                        "items": {
+                            "id": "/properties/genre/items/properties/terms/items",
+                            "type": "string"
+                        },
+                        "type": "array"
+                    },
+                    "uri": {
+                        "id": "/properties/genre/items/properties/uri",
+                        "type": "string"
+                    }
+                },
+                "type": "object"
+            },
+            "type": "array"
+        },
+        "inLanguage": {
+            "id": "/properties/inLanguage",
+            "type": "string"
+        },
+        "isBasedOn": {
+            "id": "/properties/isBasedOn",
+            "type": "string"
+        },
+        "license": {
+            "id": "/properties/license",
+            "type": "string"
+        },
+        "locationCreated": {
+            "id": "/properties/locationCreated",
+            "properties": {
+                "@type": {
+                    "id": "/properties/locationCreated/properties/@type",
+                    "type": "string"
+                },
+                "address": {
+                    "id": "/properties/locationCreated/properties/address",
+                    "type": "string"
+                }
+            },
+            "type": "object"
+        },
+        "name": {
+            "id": "/properties/name",
+            "type": "string"
+        },
+        "position": {
+            "id": "/properties/position",
+            "type": "string"
+        }
+    },
+    "type": "object"
+}

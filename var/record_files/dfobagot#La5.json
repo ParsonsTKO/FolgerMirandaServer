@@ -1,0 +1,21 @@
+{
+  "isBasedOn":"http://findingaids.folger.edu/dfobagot.xml#La5",
+  "name":"Letter from Ralph Adderley I to Walter Bagot",
+  "dateCreated":"1596/7? January 31",
+  "description":"Extreme feebleness prevents his travelling. At Sidbury met Mr. Trentham, who has done nothing about his will. Sends greetings to Richard Bagot who is to die two days later.",
+  "folgerCallNumber":"L.a.5",
+  "format":"text",
+  "genre":"letters",
+  "agent":
+  [
+    {"name":"Ralph Adderley I","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    {"@id":"http://findingaids.folger.edu/dfobagot.xml#Collection","description":"collection"},
+    {"@id":"DAP internal ID for the following rootfile","rootfile":"38770","label":"leaf 1 recto","mpso":"12","description":"digital image"},
+    {"@id":"DAP internal ID for the following rootfile","rootfile":"38771","label":"leaf 1 verso","mpso":"13","description":"digital image"}
+  ]
+}

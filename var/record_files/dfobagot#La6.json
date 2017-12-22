@@ -1,0 +1,22 @@
+{
+  "isBasedOn":"http://findingaids.folger.edu/dfobagot.xml#La6",
+  "name":"Letter from Ralph Adderley II, London, to Walter Bagot",
+  "dateCreated":"1600 June 9",
+  "description":"On the previous Thursday, the Earl of Essex was at York House before the lords of the Privy Council and other lords, also two sergeants, the Queen's attorney and Bacon; he was touched only with some disloyalty to the Queen, to whose mercy he submitted himself. It is thought he will soon be discharged. He remained on his knees for two hours, while the matter was in talk. Grey gone to the Low Countries. Raleigh gone to the country; Her Majesty called him worse than I call a dog.",
+  "folgerCallNumber":"L.a.6",
+  "format":"text",
+  "genre":"letters",
+  "agent":
+  [
+    {"name":"Ralph Adderley II, London","description":"creator"},
+    {"name":"Walter Bagot","description":"recipient"}
+  ],
+  "inLanguage":"eng",
+  "folgerRelatedItems":
+  [
+    {"@id":"http://findingaids.folger.edu/dfobagot.xml#Collection","description":"collection"},
+    {"@id":"DAP internal ID for the following rootfile","rootfile":"38772","label":"leaf 1 recto","mpso":"14","description":"digital image"},
+    {"@id":"DAP internal ID for the following rootfile","rootfile":"38773","label":"leaf 1 verso || leaf 2 recto","mpso":"15","description":"digital image"},
+    {"@id":"DAP internal ID for the following rootfile","rootfile":"38774","label":"leaf 2 verso","mpso":"16","description":"digital image"}
+  ]
+}
